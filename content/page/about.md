@@ -1,6 +1,6 @@
 ---
-title: About
-description: What does Minimo even means?!
+title: Bio
+description: Quem sou...
 menu: main
 weight: -210
 ---
