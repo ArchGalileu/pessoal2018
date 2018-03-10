@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo  --theme=minimo --baseURL=https://www.gasparsantos.eu"
 
 [build.environment]
-HUGO_VERSION = "0.32"
+HUGO_VERSION = "0.34"
 
 [context.dev]
 command = "hugo  --theme=minimo --baseURL=https://dev--www.gasparsantos.eu"
