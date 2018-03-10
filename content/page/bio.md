@@ -24,8 +24,11 @@ Integrou o Quarteto Walter Hidalgo Tango (2004-2007). Apresentou-se no TeCA e TN
 
 Estudou com Radu Ungureanu na ESMAE.
 
-Membro fundador do Quarteto Douro e Camerata NovNorte.
+Membro fundador do [Quarteto Douro] e [Camerata NovNorte].
 
 Concertino da Fundação Orquestra Estúdio - Guimarães 2012 - Capital Europeia da Cultura.
 
 Toca num violino cópia do “Cannon” de Joseph Guarnerius, contruído pelo Luthier “Eng. Joaquim Domingos Capela – ano 2000 – em Homenagem a José Francisco dos Santos e Maria Assunção M. F. dos Santos”.
+
+[Quarteto Douro]: www.quartetodouro.eu
+[Camerata NovNorte]: www.cameratanovnorte.eu
