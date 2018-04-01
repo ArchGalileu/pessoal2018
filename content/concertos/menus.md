@@ -2,7 +2,7 @@
 date: 2017-09-27T10:00:00+06:00
 lastmod: 2017-10-05T16:00:00+06:00
 title: Menus Setup Guide
-authors: ["muniftanjim"]
+authors: ["gasparsantos"]
 categories:
   - features
 tags:

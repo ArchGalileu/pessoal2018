@@ -28,7 +28,8 @@ Membro fundador do [Quarteto Douro] e [Camerata NovNorte].
 
 Concertino da Fundação Orquestra Estúdio - Guimarães 2012 - Capital Europeia da Cultura.
 
-Toca num violino cópia do “Cannon” de Joseph Guarnerius, contruído pelo Luthier “Eng. Joaquim Domingos Capela – ano 2000 – em Homenagem a José Francisco dos Santos e Maria Assunção M. F. dos Santos”.
+Toca num violino cópia do “Cannon” de Joseph Guarnerius, contruído pelo Luthier “[Eng. Joaquim Domingos Capela] – ano 2000 – em Homenagem a José Francisco dos Santos e Maria Assunção M. F. dos Santos”.
 
-[Quarteto Douro]: www.quartetodouro.eu
-[Camerata NovNorte]: www.cameratanovnorte.eu
+[Quarteto Douro]: http://www.quartetodouro.eu
+[Camerata NovNorte]: http://www.cameratanovnorte.eu
+[Eng. Joaquim Domingos Capela]: /joaquim-domingos-capela
