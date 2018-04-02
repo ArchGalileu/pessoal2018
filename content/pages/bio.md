@@ -4,9 +4,12 @@ description: Quem sou...
 date: 2017-01-01T08:00:00+00:00
 authors: ["gasparsantos"]
 menu: main
+cover: 
+    image: /images/gaspar.png
+    caption: por Virgílio Ferreira
+    style: normal
 weight: -210
 ---
-![Gaspar Santos fotografado por Virgílio Ferreira][eu]
 
 Nasceu em Espinho em 1979. Iniciou os seus estudos musicais aos oito anos na Academia de Música de S. Félix da Marinha na classe de violino da professora Odete Ramos.
 Aos onze anos ingressa na Escola Profissional e Artística do Vale do Ave (ARTAVE), onde concluiu o curso básico de instrumentista de cordas, sobre a orientação do professor David Lloyd.Durante este período da sua formação frequentou a Orquestra Artave com a qual realizou uma digressão pelas principais cidades do Brasil.

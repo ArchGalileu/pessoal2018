@@ -1,8 +1,9 @@
 ---
-title: "O meu violino"
-description: construído pelo Eng. Joaquim Domingos Capela
-date: 2017-01-01T04:52:03+01:00
-authors: [gasparsantos]
+title: "Eng. Joaquim Domingos Capela"
+linktitle: o meu violino
+description: o luthier do meu violino
+date: 2017-12-01T04:52:03+01:00
+#authors: [gasparsantos]
 menu: main
 weight: 1
 draft: false
