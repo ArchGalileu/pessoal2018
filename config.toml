@@ -19,7 +19,7 @@ pygmentsCodefences = true
 enableEmoji = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt"
 
 [params.info]
 description = "Violinista"
@@ -69,7 +69,7 @@ titleSeparator = "•"
 
 [params.social]
 codepen = ""
-email = "geral@gasparsantos.eu"
+email = ""
 facebook = "gasparsantosviolinista"
 github = ""
 gitlab = ""
@@ -101,11 +101,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+#[[menu.main]]
+#name = "Repo"
+#weight = -10
+#identifier = "repository"
+#url = "https://github.com/MunifTanjim/minimo"
 
 [blackfriday]
 hrefTargetBlank = true

@@ -1,7 +1,10 @@
 ---
-title: "Joaquim Domingos Capela"
+title: "O meu violino"
+description: construído pelo Eng. Joaquim Domingos Capela
 date: 2017-01-01T04:52:03+01:00
+authors: [gasparsantos]
 menu: main
+weight: 1
 draft: false
 ---
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...  
@@ -49,7 +52,7 @@ No âmbito desta exposição, que decorre 250 anos após a sua morte, foram publ
 Com estes violinos foram gravadas obras de célebres compositores pelo grande violinista Elmar Oliveira, o primeiro americano a vencer a medalha de ouro (1º Prémio) no Concurso Internacional Tchaikovsky no ano de 1978, em Moscovo. Nasceu a 28 de Junho de 1950 em Waterbury, Connecticut, filho de um casal de emigrantes portugueses naturais da Murtosa, Aveiro.
 
 # A Construção do Violino
-No ano 2000 construí o meu violino nº9 que procura ser uma cópia do “Cannon”. Para o efeito foram usados elementos fotográficos e geométricos contidos nos dois volumes referidos.
+No ano 2000 construí o meu violino nº 9 que procura ser uma cópia do *“Cannon”*. Para o efeito foram usados elementos fotográficos e geométricos contidos nos dois volumes referidos.
 
 O tampo harmónico, em pinho dos Alpes e formado de duas partes, apresenta anéis de crescimento (veio ou fibra) estreitos no centro, alargando-se para o lado exterior. Os éfes, longilíneos e pontiagudos, recortados com bastante rigor, retratam uma das características mais emblemáticas dos violinos de “del Gesu”. A barra harmónica, posicionada segundo a regra de um sétimo, tem a altura de 12,5mm e a espessura de 5mm.
 
@@ -63,10 +66,13 @@ O verniz, aplicado à trincha, foi formulado na base de álcool e de resinas, ta
 
 A montagem do cavalete, alma, cravelhas, cordas e estandarte baseou-se nas regras padronizadas para o violino moderno, não deixando contudo de haver correcções ao gosto do próprio violeiro.
 
-Os parâmetros acústicos violino, nomeadamente potência, projecção, igualdade entre cordas, características tímbricas e “playability” dominam o som procurado pelos instrumentistas. E é este actor o verdadeiro juiz. No caso presente o juiz do meu violino será o violinista Gaspar Fonseca dos Santos, para quem foi construído. 
+Os parâmetros acústicos violino, nomeadamente potência, projecção, igualdade entre cordas, características tímbricas e “playability” dominam o som procurado pelos instrumentistas. E é este actor o verdadeiro juiz. No caso presente o juiz do meu violino será o violinista [Gaspar Fonseca dos Santos][eu], para quem foi construído. 
 
-Joaquim Domingos Capela
-
-Dezembro 2007 São Fêlix da Marinha V. N. de Gaia Portugal
+**Joaquim Domingos Capela**  
+Dezembro 2007  
+São Fêlix da Marinha  
+V. N. de Gaia  
+Portugal
 
 [eng]: /images/engcapela.webp
+[eu]: /
