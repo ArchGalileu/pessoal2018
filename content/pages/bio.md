@@ -1,6 +1,8 @@
 ---
 title: Bio
 description: Quem sou...
+date: 2017-01-01T08:00:00+00:00
+authors: ["gasparsantos"]
 menu: main
 weight: -210
 ---
