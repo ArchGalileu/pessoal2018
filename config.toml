@@ -34,13 +34,13 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 [params.copyright]
 prefix = ""
 holder = "Gaspar Santos"
-startYear = "1979"
+startYear = "2000"
 suffix = ""
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "02 Jan 2006"
-listDateFormat = "2006, Jan 02"
+listDateFormat = "02 Jan 2006"
 archiveDateFormat = "02 Jan"
 hideEntryNavigation = ["page"] # boolean / array of sections
 hideSocialMenu = false
