@@ -19,7 +19,7 @@ pygmentsCodefences = true
 enableEmoji = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "pt"
+defaultContentLanguage = "en"
 
 [params.info]
 description = "violinista"
