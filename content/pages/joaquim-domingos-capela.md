@@ -1,11 +1,10 @@
 ---
-title: "Joaquim Domingos Capela"
+title: "O Meu Violino"
 date: 2017-01-01T04:52:03+01:00
 menu: main
 draft: false
 ---
-> Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
-
+> Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...  
 Obrigado Eng. Joaquim Domingos Capela
 
 # Breve História dos Guarnerius
