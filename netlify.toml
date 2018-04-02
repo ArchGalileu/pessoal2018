@@ -1,6 +1,7 @@
 [build]
 publish = "public"
-command = "hugo  --theme=minimo --baseURL=https://www.gasparsantos.eu"
+#command = "hugo  --theme=minimo --baseURL=https://www.gasparsantos.eu"
+command = "hugo --baseURL=https://www.gasparsantos.eu"
 
 [build.environment]
 HUGO_VERSION = "0.34"
