@@ -34,4 +34,4 @@ Toca num violino cópia do “Cannon” de Joseph Guarnerius, contruído pelo Lu
 
 [Quarteto Douro]: http://www.quartetodouro.eu/
 [Camerata NovNorte]: http://www.cameratanovnorte.eu/
-[Eng. Joaquim Domingos Capela]: /joaquim-domingos-capela
+[Eng. Joaquim Domingos Capela]: /o-meu-violino
