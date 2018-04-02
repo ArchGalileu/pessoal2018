@@ -115,4 +115,9 @@ hrefTargetBlank = true
 [languages.en]
 lang = "en"
 languageName = "English"
+weight = 2
+
+[languages.pt]
+lang = "pt"
+languageName = "Português"
 weight = 1
