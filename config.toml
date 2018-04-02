@@ -22,8 +22,8 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
-title404 = "Nothing's here!"
+description = "Violinista"
+title404 = "Que procura?!"
 
 [params.assets]
 favicon = "favicon.ico"
