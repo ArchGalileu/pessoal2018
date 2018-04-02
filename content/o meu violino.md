@@ -4,7 +4,7 @@ linktitle: o meu violino
 description: o luthier do meu violino
 date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
-slug: o meu violino
+slug: /o-meu-violino
 menu: main
 weight: 1
 draft: false

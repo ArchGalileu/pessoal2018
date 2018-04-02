@@ -31,7 +31,7 @@ other = "Próximo"
 other = "Próxima página"
 
 [nextPost]
-other = "Próximo post"
+other = "Próximo publicação"
 
 [noTerm]
 other = "{{ .Term }} não foi encontrado!"
@@ -49,7 +49,7 @@ other = "Anterior"
 other = "Página anterior"
 
 [previousPost]
-other = "Post anterior"
+other = "Publicação anterior"
 
 [postedOn]
 other = "Publicado em"
@@ -59,7 +59,7 @@ one = "Um minuto de leitura"
 other = "{{ .Count }} minutos de leitura"
 
 [recentPosts]
-other = "Posts recentes"
+other = "Publicações recentes"
 
 [skipToContent]
 other = "Ir para o conteúdo"
