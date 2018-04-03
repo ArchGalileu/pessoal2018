@@ -14,10 +14,10 @@ draft: false
     <label>Email: <input type="text" name="name"></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Mensagem: <textarea name="message"></textarea></label>
   </p>
   <div netlify-recaptcha></div>
   <p>
-    <button type=”submit”>Send</button>
+    <button type=”submit”>Enviar</button>
   </p>
 </form>
