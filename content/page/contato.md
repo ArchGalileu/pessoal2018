@@ -2,9 +2,9 @@
 title: "Contato"
 #linktitle:
 description: porque... sim claro...
-date: 2017-12-01T04:52:03+01:00
+#date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
-#slug: /o-meu-violino
+slug: contato
 menu: main
 weight: 200
 draft: false
