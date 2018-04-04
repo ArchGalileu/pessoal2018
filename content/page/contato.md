@@ -8,6 +8,7 @@ slug: contato
 menu: main
 weight: 200
 draft: false
+showReadingTime: false
 ---
 <form name="contact" method="POST" action="thank-you" netlify>
   <p>
