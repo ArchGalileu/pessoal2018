@@ -9,9 +9,10 @@ menu: main
 weight: 1
 draft: false
 toc: true
+markup: mmark
 ---
-> Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...  
-Obrigado Eng. Joaquim Domingos Capela
+> Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
+Quote: Obrigado -- Eng. Joaquim Domingos Capela
 
 ![Eng. Domingos Capela][eng]
 
