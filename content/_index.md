@@ -7,7 +7,9 @@ cover:
     image: /images/gaspar.png
     caption: por Virgílio Ferreira
     style: normal
-menu: main
+menu: 
+    main
+    sidebar 
 weight: -270
 ---
 Nasceu em Espinho em 1979. Iniciou os seus estudos musicais aos oito anos na Academia de Música de S. Félix da Marinha na classe de violino da professora Odete Ramos.

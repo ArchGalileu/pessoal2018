@@ -5,11 +5,13 @@ description: o luthier do meu violino
 date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
 slug: /o-meu-violino
-menu: main
+menu: 
+    main
 weight: 1
 draft: false
 toc: true
 markup: mmark
+#emoji: true
 ---
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
 Quote: Obrigado -- Eng. Joaquim Domingos Capela
@@ -19,7 +21,7 @@ Quote: Obrigado -- Eng. Joaquim Domingos Capela
 # Breve História dos Guarnerius
 A cidade de Cremona, Itália, foi nos séculos XVI, XVII, e XVIII berço de notáveis famílias famílias de violeiros, entre outras Amati, Guarnerius, Stradivarius e Ruggeris, as quais projectaram esta cidade em toda a Europa como o primeiro e maior centro da construção de violinos.
 
-Pela circunstância e espaço disponível narrar-se-à aqui uma breve história da família Guarnerius e alguns factos envolventes.
+Pela circunstância e espaço disponível narrar-se-à aqui uma breve história da família Guarnerius e alguns factos envolventes. :smiley:
 
 Andrea (1626-1698), o primeiro violeiro da família, faz a sua aprendizagem na oficina de Nicolau Amati, como confirma a descrição duma das suas etiquetas: “Andrea Guarnerius alumnus Nicolau Amati fecit Cremonae sub titulo Sanctae Terefiae 16..”.
 
