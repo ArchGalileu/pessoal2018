@@ -11,7 +11,7 @@ menu:
 weight: 1
 draft: false
 toc: true
-markup: mmark
+#markup: mmark
 #emoji: true
 ---
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
