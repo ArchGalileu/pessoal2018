@@ -17,7 +17,12 @@ toc: true
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
 Quote: Obrigado -- Eng. Joaquim Domingos Capela
 
-![Eng. Domingos Capela][eng]
+{{% center %}}
+
+{{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
+
+{{% /center %}}
+
 
 ## Breve História dos Guarnerius
 A cidade de Cremona, Itália, foi nos séculos XVI, XVII, e XVIII berço de notáveis famílias famílias de violeiros, entre outras Amati, Guarnerius, Stradivarius e Ruggeris, as quais projectaram esta cidade em toda a Europa como o primeiro e maior centro da construção de violinos.

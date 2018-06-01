@@ -3,77 +3,116 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.gasparsantos.eu/pt/authors/</loc>
-    <priority>0</priority>
+    <loc>http://www.gasparsantos.eu/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.gasparsantos.eu/authors/"
+                href="http://www.gasparsantos.eu/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.gasparsantos.eu/pt/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.gasparsantos.eu/pt/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.gasparsantos.eu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.gasparsantos.eu/pt/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.gasparsantos.eu/pt/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://www.gasparsantos.eu/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://www.gasparsantos.eu/o-meu-violino/</loc>
+    <lastmod>2017-12-01T04:52:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.gasparsantos.eu/contato/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.gasparsantos.eu/en/contact/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.gasparsantos.eu/pt/"
+                href="http://www.gasparsantos.eu/contato/"
                 />
   </url>
   
   <url>
-    <loc>http://www.gasparsantos.eu/pt/series/</loc>
+    <loc>http://www.gasparsantos.eu/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.gasparsantos.eu/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://www.gasparsantos.eu/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.gasparsantos.eu/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://www.gasparsantos.eu/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://www.gasparsantos.eu/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.gasparsantos.eu/authors/gasparsantos/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.gasparsantos.eu/page/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.gasparsantos.eu/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://www.gasparsantos.eu/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.gasparsantos.eu/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.gasparsantos.eu/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="http://www.gasparsantos.eu/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.gasparsantos.eu/pt/series/"
-                />
   </url>
   
   <url>
-    <loc>http://www.gasparsantos.eu/pt/tags/</loc>
+    <loc>http://www.gasparsantos.eu/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.gasparsantos.eu/tags/"
+                href="http://www.gasparsantos.eu/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.gasparsantos.eu/pt/tags/"
+                href="http://www.gasparsantos.eu/tags/"
                 />
   </url>
   
