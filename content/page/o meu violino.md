@@ -18,6 +18,7 @@ toc: true
 #tags:
 #    - teste 1
 #    - teste 2
+image: /images/engcapela.webp
 ---
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
 Quote: Obrigado -- Eng. Joaquim Domingos Capela
