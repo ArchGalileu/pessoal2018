@@ -13,15 +13,18 @@ draft: false
 toc: true
 #markup: mmark
 #emoji: true
+#categories: 
+#    - violino
+#tags:
+#    - teste 1
+#    - teste 2
 ---
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
 Quote: Obrigado -- Eng. Joaquim Domingos Capela
 
-{{% center %}}
 
 {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 
-{{% /center %}}
 
 
 ## Breve História dos Guarnerius
