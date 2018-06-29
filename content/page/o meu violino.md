@@ -19,12 +19,15 @@ toc: true
 #    - teste 1
 #    - teste 2
 image: /images/engcapela.webp
+cover:
+  image: /images/engcapela.webp
+  alternate: Eng. Domingos Capela
+  caption: Eng. Domingos Capela
+  style: normal
+## {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...
 Quote: Obrigado -- Eng. Joaquim Domingos Capela
-
-
-{{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 
 
 
