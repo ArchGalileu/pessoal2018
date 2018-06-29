@@ -1,0 +1,16 @@
+<li class='item'>
+  <div class='meta'>
+  <img alt="{{ .Title }}"
+        width="90"
+        src="{{ .Params.image }}">
+      </img>
+    {{ partial "list/date" . }}
+  </div>
+  <header class='item-header'>
+      <h2 class='item-title'>
+      <a href='{{ .Permalink | relURL }}'>
+        {{- .Title -}}
+      </a>
+    </h2>
+  </header>
+</li>
