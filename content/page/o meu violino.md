@@ -14,7 +14,7 @@ toc: true
 #markup: mmark
 #emoji: true
 #categories: 
-#    - violino
+#    - features
 #tags:
 #    - teste 1
 #    - teste 2
@@ -24,7 +24,7 @@ cover:
   alternate: Eng. Domingos Capela
   caption: Eng. Domingos Capela
   style: normal
-## {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
+# {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
 > Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado...   
 > Obrigado Eng. Joaquim Domingos Capela
