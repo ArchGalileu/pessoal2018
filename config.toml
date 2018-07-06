@@ -103,6 +103,14 @@ issueTerm = "pathname" # pathname / url / title
 username = ""
 repository = ""
 
+[params.search]
+client = "" # algolia / fuse / lunr
+
+[params.search.algolia]
+appId = ""
+indexName = ""
+searchApiKey = ""
+
 [taxonomies]
 author = "authors"
 category = "categories"
