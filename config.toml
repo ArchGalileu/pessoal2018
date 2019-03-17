@@ -43,8 +43,9 @@ dateFormat = "02 Jan 2006"
 listDateFormat = "2006, 02 Jan"
 archiveDateFormat = "02 Jan"
 hideEntryNavigation = ["page"] # boolean / array of sections
-## hideSocialMenu = false
+hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
+showLastmod = true
 taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
 hideMainMenu = false
@@ -53,8 +54,9 @@ hideMainMenu = false
 enable = true
 
 [params.widgets]
+header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -80,19 +82,24 @@ linkedin = ""
 twitter = ""
 telegram = ""
 google_scholar = ""
+youtube = ""
 
 [params.comments]
 enable = false
+
+# Isso: https://posativ.org/isso/
+[params.comments.isso]
+enable = false
+scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [params.comments.staticman]
 enable = false
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-
-[params.comments.staticman.github]
 username = ""
 repository = ""
-branch = "master"
+branch = ""
 
 # Utterances: https://utteranc.es
 [params.comments.utterances]
