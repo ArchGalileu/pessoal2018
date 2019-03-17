@@ -76,3 +76,9 @@ other = "Tags"
 
 [search]
 other = "pesquisa"
+
+[searchResultEmpty]
+other = "Ups! Não encontrei nada."
+
+[searching]
+other = "a procurar"
