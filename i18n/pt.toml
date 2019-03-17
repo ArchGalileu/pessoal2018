@@ -73,3 +73,6 @@ other = "Índice"
 [tag]
 one = "Tag"
 other = "Tags"
+
+[search]
+other = "pesquisa"
