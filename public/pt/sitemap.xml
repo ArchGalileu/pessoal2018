@@ -3,117 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.gasparsantos.eu/</loc>
+    <loc>https://www.gasparsantos.eu/</loc>
     <lastmod>2017-01-01T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.gasparsantos.eu/en/"
+                href="https://www.gasparsantos.eu/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.gasparsantos.eu/"
+                href="https://www.gasparsantos.eu/"
                 />
   </url>
   
   <url>
-    <loc>http://www.gasparsantos.eu/o-meu-violino/</loc>
+    <loc>https://www.gasparsantos.eu/o-meu-violino/</loc>
     <lastmod>2017-12-01T04:52:03+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.gasparsantos.eu/contato/</loc>
+    <loc>https://www.gasparsantos.eu/contato/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.gasparsantos.eu/en/contact/"
+                href="https://www.gasparsantos.eu/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.gasparsantos.eu/contato/"
+                href="https://www.gasparsantos.eu/contato/"
                 />
   </url>
   
   <url>
-    <loc>http://www.gasparsantos.eu/authors/</loc>
+    <loc>https://www.gasparsantos.eu/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.gasparsantos.eu/en/authors/"
+                href="https://www.gasparsantos.eu/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.gasparsantos.eu/authors/"
+                href="https://www.gasparsantos.eu/authors/"
                 />
   </url>
   
   <url>
-    <loc>http://www.gasparsantos.eu/categories/</loc>
+    <loc>https://www.gasparsantos.eu/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.gasparsantos.eu/en/categories/"
+                href="https://www.gasparsantos.eu/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://www.gasparsantos.eu/categories/"
+                href="https://www.gasparsantos.eu/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.gasparsantos.eu/authors/gasparsantos/</loc>
+    <loc>https://www.gasparsantos.eu/page/</loc>
+    <lastmod>2017-12-01T04:52:03+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.gasparsantos.eu/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.gasparsantos.eu/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.gasparsantos.eu/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.gasparsantos.eu/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.gasparsantos.eu/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.gasparsantos.eu/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.gasparsantos.eu/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://www.gasparsantos.eu/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.gasparsantos.eu/authors/gasparsantos/</loc>
     <lastmod>2017-01-01T08:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.gasparsantos.eu/page/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.gasparsantos.eu/en/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.gasparsantos.eu/page/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.gasparsantos.eu/series/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.gasparsantos.eu/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.gasparsantos.eu/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.gasparsantos.eu/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.gasparsantos.eu/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://www.gasparsantos.eu/tags/"
-                />
   </url>
   
 </urlset>

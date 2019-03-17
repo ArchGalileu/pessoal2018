@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Início on Gaspar Santos</title>
-    <link>http://www.gasparsantos.eu/</link>
+    <link>https://www.gasparsantos.eu/</link>
     <description>Recent content in Início on Gaspar Santos</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 01 Jan 2017 08:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.gasparsantos.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gasparsantos.eu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eng. Joaquim Domingos Capela</title>
-      <link>http://www.gasparsantos.eu/o-meu-violino/</link>
+      <link>https://www.gasparsantos.eu/o-meu-violino/</link>
       <pubDate>Fri, 01 Dec 2017 04:52:03 +0100</pubDate>
       
-      <guid>http://www.gasparsantos.eu/o-meu-violino/</guid>
-      <description>Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado&amp;hellip; Quote: Obrigado &amp;ndash; Eng. Joaquim Domingos Capela
-  Eng. Domingos Capela 
+      <guid>https://www.gasparsantos.eu/o-meu-violino/</guid>
+      <description>Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado&amp;hellip;
+Obrigado Eng. Joaquim Domingos Capela
  Breve História dos Guarnerius A cidade de Cremona, Itália, foi nos séculos XVI, XVII, e XVIII berço de notáveis famílias famílias de violeiros, entre outras Amati, Guarnerius, Stradivarius e Ruggeris, as quais projectaram esta cidade em toda a Europa como o primeiro e maior centro da construção de violinos.</description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>http://www.gasparsantos.eu/contato/</link>
+      <link>https://www.gasparsantos.eu/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.gasparsantos.eu/contato/</guid>
+      <guid>https://www.gasparsantos.eu/contato/</guid>
       <description> Email:   Mensagem:    Enviar  </description>
     </item>
     

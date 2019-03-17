@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Gaspar Santos</title>
-    <link>http://www.gasparsantos.eu/authors/</link>
+    <link>https://www.gasparsantos.eu/authors/</link>
     <description>Recent content in Authors on Gaspar Santos</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://www.gasparsantos.eu/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gasparsantos.eu/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gasparsantos</title>
-      <link>http://www.gasparsantos.eu/authors/gasparsantos/</link>
+      <title>gasparsantos</title>
+      <link>https://www.gasparsantos.eu/authors/gasparsantos/</link>
       <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
       
-      <guid>http://www.gasparsantos.eu/authors/gasparsantos/</guid>
+      <guid>https://www.gasparsantos.eu/authors/gasparsantos/</guid>
       <description></description>
     </item>
     
