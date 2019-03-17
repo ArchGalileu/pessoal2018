@@ -38,8 +38,8 @@ Concertino da Fundação Orquestra Estúdio - Guimarães 2012 - Capital Europeia
 Toca num violino cópia do “Cannon” de Joseph Guarnerius, contruído pelo Luthier “[Eng. Joaquim Domingos Capela] – ano 2000 – em Homenagem a José Francisco dos Santos e Maria Assunção M. F. dos Santos”.
 
 
-[Quarteto Douro]: http://www.quartetodouro.eu/
-[Camerata NovNorte]: http://www.cameratanovnorte.eu/
+[Quarteto Douro]: https://www.quartetodouro.eu/
+[Camerata NovNorte]: https://www.cameratanovnorte.eu/
 [Eng. Joaquim Domingos Capela]: /o-meu-violino
 [eu]: /images/gaspar.png
 
