@@ -1,10 +1,10 @@
 ---
 title: "Eng. Joaquim Domingos Capela"
-linktitle: o meu violino
-description: o luthier do meu violino
+linktitle: my violin
+description: the luthier of my violin
 date: 2017-12-01T04:52:03+01:00
-authors: [gasparsantos]
-slug: /o-meu-violino
+#authors: [gasparsantos]
+slug: /my-violin
 menu: 
     - main
     - sidebar
