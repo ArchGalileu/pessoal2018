@@ -1,6 +1,6 @@
 baseURL = "https://www.gasparsantos.eu"
 title = "Gaspar Santos"
-# for smart copyright line, leave this blank and check [params.copyright]
+## for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
 theme = "minimo"
