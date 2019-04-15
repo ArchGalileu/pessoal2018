@@ -141,12 +141,12 @@ hrefTargetBlank = true
 # edit this block for your own language
 [languages.en]
 lang = "en"
-languageName = "English"
+languageName = "EN"
 weight = 2
 
 [languages.pt]
 lang = "pt"
-languageName = "Português"
+languageName = "PT"
 weight = 1
 
 [privacy]
