@@ -9,15 +9,19 @@ menu: main
 weight: 200
 draft: false
 ---
-<form name="contact" method="POST" action="thank-you" netlify>
+{{< rawhtml >}}
+<form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Email: <input type="text" name="name"></label>
+    <label>Name: <input type="text" name="name" /></label>
   </p>
   <p>
-    <label>Mensagem: <textarea name="message"></textarea></label>
+    <label>Email: <input type="email" name="email" /></label>
   </p>
-  <div netlify-recaptcha></div>
   <p>
-    <button type=”submit”>Enviar</button>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
   </p>
 </form>
+{{< /rawhtml >}}
