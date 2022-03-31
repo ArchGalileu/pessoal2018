@@ -28,7 +28,7 @@ title404 = "Que procura?!"
 [params.assets]
 #favicon = "favicon.ico"
 favicon = "images/favicon.png"
-customCSS = ["css/custom.css"]
+customCSS = ["custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
@@ -189,6 +189,6 @@ quality = 75
 anchor = "smart"
 
 #### MODULES
-#[module]
-#[[module.imports]]
-#  path = 'github.com/hugo-mods/icons'
+[module]
+[[module.imports]]
+  path = 'github.com/hugo-mods/icons'

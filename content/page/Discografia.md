@@ -37,10 +37,18 @@ cover:
 
 *Para ouvires em outras plataformas...*
 
-Spotify - [Ouvir](https://open.spotify.com/album/7s0pLID0Kqvts19acGKuxc)  
-Tidal - [Ouvir](https://listen.tidal.com/album/222183927)  
-Amazon Music - [Ouvir](https://music.amazon.com/albums/B09WB2KDB3)  
-Deezer - [Ouvir](https://www.deezer.com/album/305246727)  
-Qobuz - [Ouvir](https://open.qobuz.com/album/c0d9dxwkmxyja)  
+{{< rawhtml >}}
+<style>
+table, tl, tr, th, td {
+   border: none!important;
+}
+</style>
+{{< /rawhtml >}}
+
+|              |       |
+|--------------|------:|
+| {{< icon "fab spotify" >}} Spotify     | [{{< icon "far play" >}}](https://open.spotify.com/album/7s0pLID0Kqvts19acGKuxc) |
+| {{< icon "fab amazon" >}} Amazon Music | [{{< icon "far play" >}}](https://music.amazon.com/albums/B09WB2KDB3) |
+| {{< icon "fab deezer" >}} Deezer       | [{{< icon "far play" >}}](https://www.deezer.com/album/305246727) |
 
 
