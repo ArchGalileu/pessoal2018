@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Gaspar Santos</title>
-    <link>https://www.gasparsantos.eu/en/page/</link>
-    <description>Recent content in Pages on Gaspar Santos</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://www.gasparsantos.eu/en/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Contact</title>
-      <link>https://www.gasparsantos.eu/en/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gasparsantos.eu/en/contact/</guid>
-      <description> Email:   Mensagem:    Enviar  </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Gaspar Santos</title><link>https://www.gasparsantos.eu/en/page/</link><description>Recent content in Pages on Gaspar Santos</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 01 Dec 2017 04:52:03 +0100</lastBuildDate><atom:link href="https://www.gasparsantos.eu/en/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Eng. Joaquim Domingos Capela</title><link>https://www.gasparsantos.eu/en/my-violin/</link><pubDate>Fri, 01 Dec 2017 04:52:03 +0100</pubDate><guid>https://www.gasparsantos.eu/en/my-violin/</guid><description>Em determinado dia pedi ao Eng. Joaquim Domingos Capela que escrevesse um pequeno texto sobre o meu violino, e para meu espanto eis o resultado&amp;hellip;
+Obrigado Eng. Joaquim Domingos Capela
+Breve História dos Guarnerius A cidade de Cremona, Itália, foi nos séculos XVI, XVII, e XVIII berço de notáveis famílias famílias de violeiros, entre outras Amati, Guarnerius, Stradivarius e Ruggeris, as quais projectaram esta cidade em toda a Europa como o primeiro e maior centro da construção de violinos.</description></item><item><title>Contact</title><link>https://www.gasparsantos.eu/en/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.gasparsantos.eu/en/contact/</guid><description> Name: Email: Message: Send</description></item></channel></rss>

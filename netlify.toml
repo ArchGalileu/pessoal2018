@@ -3,5 +3,5 @@
 [build]
 publish = "public"
 command = "hugo --gc --minify" 
-[build.processing]
-    skip_processing = true
+#[build.processing]
+#    skip_processing = true
