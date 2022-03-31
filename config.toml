@@ -135,8 +135,8 @@ page = "/:slug/"
 #identifier = "repository"
 #url = "https://github.com/MunifTanjim/minimo"
 
-[blackfriday]
-hrefTargetBlank = true
+#[blackfriday]
+#hrefTargetBlank = true
 
 [languages]
 # edit this block for your own language
