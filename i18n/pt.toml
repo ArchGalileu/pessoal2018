@@ -2,12 +2,40 @@
 one = "Autor"
 other = "Autores"
 
+[authorsAvatar]
+other = "{{ .Author }}'s avatar"
+
 [by]
 other = "por"
+
+[cancel]
+other = "Cancelar"
+
+[cancelComment]
+other = "Cancelar comentário"
 
 [category]
 one = "Categoria"
 other = "Categorias"
+
+[comment]
+other = "Comentário"
+
+[commentSubmissionErrorMessage]
+other = "Ocorreu um erro. Não é possível enviar o comentário. Por favor tente novamente. Obrigado!"
+
+[commentSubmissionErrorTitle]
+other = "Ups, Desculpe!"
+
+[commentSubmissionSuccessMessage]
+other = "O seu comentário foi enviado. Em breve aparecerá na página!"
+
+[commentSubmissionSuccessTitle]
+other = "Obrigado!"
+
+[commentsOnEntry]
+one = "Apenas {{ .Count }} comentários em {{ .Title }}"
+other = "{{ .Count }} comentários em {{ .Title }}"
 
 [contactViaEmail]
 other = "Entre em contato por email"
@@ -15,14 +43,26 @@ other = "Entre em contato por email"
 [currentPage]
 other = "Página atual"
 
+[email]
+other = "Email"
+
 [gopher]
 other = "Gopher"
 
 [goHome]
 other = "Página principal..."
 
+[lastUpdated]
+other = "atualizado em"
+
+[leaveAComment]
+other = "Deixe um comentário"
+
 [mainMenu]
 other = "Página principal"
+
+[name]
+other = "Nome"
 
 [next]
 other = "Próximo"
@@ -35,6 +75,9 @@ other = "Próximo publicação"
 
 [noTerm]
 other = "{{ .Term }} não foi encontrado!"
+
+[ok]
+other = "OK"
 
 [openAccountInNewTab]
 other = "Abra a {{ .Platform }} em uma nova aba"
@@ -61,11 +104,39 @@ other = "{{ .Count }} minutos de leitura"
 [recentPosts]
 other = "Publicações recentes"
 
+[reply]
+other = "Responder"
+
 [skipToContent]
 other = "Ir para o conteúdo"
 
+[says]
+other = "afirma"
+
+[search]
+other = "Pesquisar"
+
+[searchResultEmpty]
+other = "Ups! Não encontrei nada."
+
+[searching]
+other = "a procurar"
+
+[series]
+one = "Series"
+other = "Series"
+
+[sidebarMenu]
+other = "Menu Lateral"
+
+[skipToMainMenu]
+other = "Ir para o Menu Principal"
+
 [socialMenu]
 other = "Menu Social"
+
+[submitComment]
+other = "Comentar!"
 
 [tableOfContents]
 other = "Índice"
@@ -74,11 +145,10 @@ other = "Índice"
 one = "Tag"
 other = "Tags"
 
-[search]
-other = "pesquisa"
+[toggleSidebar]
+other = "Toggle Sidebar"
 
-[searchResultEmpty]
-other = "Ups! Não encontrei nada."
+[website]
+other = "Website"
 
-[searching]
-other = "a procurar"
+

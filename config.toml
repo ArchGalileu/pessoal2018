@@ -49,7 +49,7 @@ showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
-hideMainMenu = false
+hideMainMenu = true
 
 [params.sidebar]
 enable = true
@@ -58,7 +58,7 @@ enable = true
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
 #sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
-sidebar = ["about","sidebar_menu","taxonomy_cloud"]
+sidebar = ["about","sidebar_menu"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -187,3 +187,8 @@ quality = 75
 # Smart Cropping is content aware and tries to find the best crop for each image.
 # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 anchor = "smart"
+
+#### MODULES
+[module]
+[[module.imports]]
+  path = 'github.com/hugo-mods/icons'

@@ -5,7 +5,9 @@ description: porque... sim claro...
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
 slug: contato
-menu: main
+menu: 
+  - main
+  - sidebar
 weight: 200
 draft: false
 showReadingTime: false

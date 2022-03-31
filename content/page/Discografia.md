@@ -19,14 +19,28 @@ toc: false
 #    - teste 1
 #    - teste 2
 #image:/images/engcapela.webp
-#cover:
-#  image: /images/engcapela.webp
-#  alternate: Eng. Domingos Capela
-#  caption: Eng. Domingos Capela
-#  style: normal
-# {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
+cover:
+  image: /images/disco.jpg
+  alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
+  caption: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
+  style: normal
+# {{< imgcap title="Eng. Domingos Capela" src="/images/disco.jpg" >}}
 ---
+--- 
+*Para ouvir aqui...*
 
 {{< rawhtml >}}
-<div class="tidal-embed" style="position:relative;padding-bottom:100%;height:0;overflow:hidden;max-width:100%"><iframe src="https://embed.tidal.com/albums/222183927?layout=gridify&disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:1px;min-height:100%;margin:0 auto"></iframe></div>
+<iframe src="https://embed.tidal.com/albums/222183927" allowfullscreen="allowfullscreen" frameborder="0" style="width:100%;height:96px"></iframe>
 {{< /rawhtml >}}
+
+---
+
+*Para ouvires em outras plataformas...*
+
+Spotify - [Ouvir](https://open.spotify.com/album/7s0pLID0Kqvts19acGKuxc)  
+Tidal - [Ouvir](https://listen.tidal.com/album/222183927)  
+Amazon Music - [Ouvir](https://music.amazon.com/albums/B09WB2KDB3)  
+Deezer - [Ouvir](https://www.deezer.com/album/305246727)  
+Qobuz - [Ouvir](https://open.qobuz.com/album/c0d9dxwkmxyja)  
+
+
