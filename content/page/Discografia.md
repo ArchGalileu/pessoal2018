@@ -26,16 +26,6 @@ cover:
   style: normal
 # {{< imgcap title="Eng. Domingos Capela" src="/images/disco.jpg" >}}
 ---
---- 
-*Para ouvir aqui...*
-
-{{< rawhtml >}}
-<iframe src="https://embed.tidal.com/albums/222183927" allowfullscreen="allowfullscreen" frameborder="0" style="width:100%;height:96px"></iframe>
-{{< /rawhtml >}}
-
----
-
-*Para ouvires em outras plataformas...*
 
 {{< rawhtml >}}
 <style>
@@ -51,4 +41,11 @@ table, tl, tr, th, td {
 | {{< icon "fab amazon" >}} Amazon Music | [{{< icon "far play" >}}](https://music.amazon.com/albums/B09WB2KDB3) |
 | {{< icon "fab deezer" >}} Deezer       | [{{< icon "far play" >}}](https://www.deezer.com/album/305246727) |
 
+---
+
+*Para ouvir aqui... um pouco...*
+
+{{< rawhtml >}}
+<iframe src="https://embed.tidal.com/albums/222183927" allowfullscreen="allowfullscreen" frameborder="0" style="width:100%;height:96px"></iframe>
+{{< /rawhtml >}}
 
