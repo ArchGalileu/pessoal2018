@@ -1,7 +1,7 @@
 ---
 title: "Discografia"
 linktitle: discografia
-description: meus e em que participei...
+description: Bach Solo
 date: 2020-03-20T00:00:00+01:00
 authors: [gasparsantos]
 slug: /discografia
