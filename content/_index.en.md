@@ -12,32 +12,29 @@ menu:
     - sidebar 
 weight: -270
 ---
-Nasceu em Espinho em 1979. Iniciou os seus estudos musicais aos oito anos na Academia de Música de S. Félix da Marinha na classe de violino da professora Odete Ramos.
-Aos onze anos ingressa na Escola Profissional e Artística do Vale do Ave (ARTAVE), onde concluiu o curso básico de instrumentista de cordas, sobre a orientação do professor David Lloyd.Durante este período da sua formação frequentou a Orquestra Artave com a qual realizou uma digressão pelas principais cidades do Brasil.
+Born in Espinho in 1979. He began his musical studies at the age of eight at the Academy of Music of S. Félix da Marinha in the violin class of Professor Odete Ramos. At the age of eleven he joined the Professional and Artistic School of Vale do Ave (ARTAVE), where he completed the basic course of string instrumentalist, under the guidance of Professor David Lloyd. During this period of his training he attended the Orquestra Artave with which he toured the main cities of Brazil. 
 
-Posteriormente ingressou no Conservatório de Música do Porto para estudar com o professor Radu Ungureanu.
+He later joined the Conservatório de Música do Porto to study with Professor Radu Ungureanu. 
 
-Foi membro da Orquestra do Norte, Orquestra Filarmonia das Beiras, Orquestra de Câmara de Coimbra, Orquestra Sinfónica da FAP e Orquestra das Raízes Ibéricas, com as quais realizou diversos concertos com os mais variados maestros por todo o país.
+He was a member of the Orquestra do Norte, Orquestra Filarmonia das Beiras, Orquestra de Câmara de Coimbra, Orquestra Sinfónica da FAP and Orquestra das Raízes Ibéricas, with which he performed several concerts with the most varied conductors throughout the country.
 
-A titulo particular, ou em master classes trabalhou com Suzana Lidegran, Alberto Gaio Lima, André Gousseu, Dona Lee Croft – Royal College of Music, London, Quarteto Brodsky entre outros.
+With private lessons, or in master classes worked with Suzana Lidegran, Alberto Gaio Lima, André Gousseu, Dona Lee Croft – Royal College of Music, London, Brodsky Quartet among others. 
 
-Apresentou-se como solista com a Orquestra Artave, Orquestra do Conservatório de Música do Porto, Orquestra de Câmara de Pedroso, Orquestra do Norte e Orquestra de Câmara de Coimbra.
+He performed as a solist with the Artave Orchestra, Orchestra of the Conservatory of Music of Porto, Pedroso Chamber Orchestra, Northern Orchestra and Coimbra Chamber Orchestra. 
 
-Obteve o 3º prémio no concurso “Prémio Jovens Músicos” na classe de violino em 1995, o 1º e 3º prémios no Concurso Interno do Conservatório de Música do Porto na classe de Música de Câmara em 1996 e o 1º prémio Europaischen Musikfestival Für Die Jugend, Neerpelt.
+He won the 3rd prize in the "Prémio Jovens Músicos" competition in the violin class in 1995, the 1st and 3rd prizes in the Internal Competition of the Conservatório de Música do Porto in the Chamber Music class in 1996 and the 1st prize Europaischen Musikfestival Für Die Jugend, Neerpelt.
 
-Integrou o Quarteto Walter Hidalgo Tango (2004-2007). Apresentou-se no TeCA e TNSJ, com a obra “Maria de Buenos Aires” de Astor Piazzolla, 2006.
+He was part of the Walter Hidalgo Tango Quartet (2004-2007). He performed at TeCA and TNSJ, with the work "Maria de Buenos Aires" by Astor Piazzolla, 2006. 
 
-1º violino do Quarteto Aquarelle, com o qual esteve vinculado à ESMAE durante 4 anos na classe de Música de Câmara, do qual se desvinculou em Agosto 2004;
+1st violin of the Aquarelle Quartet, with which he was linked to ESMAE for 4 years in the Chamber Music class, from which he disassociated in August 2004; 
 
-Estudou com Radu Ungureanu na ESMAE.
+Studied with Radu Ungureanu at ESMAE. 
 
-Membro fundador do [Quarteto Douro] e [Camerata NovNorte].
+Founding member of the [Quarteto Douro] and [Camerata NovNorte]. 
 
-Concertino da Fundação Orquestra Estúdio - Guimarães 2012 - Capital Europeia da Cultura.
+Concertmaster of the Fundação Orquestra Estúdio - Guimarães 2012 - European Capital of Culture.
 
-Toca num violino cópia do “Cannon” de Joseph Guarnerius, contruído pelo Luthier “[Eng. Joaquim Domingos Capela] – ano 2000 – em Homenagem a José Francisco dos Santos e Maria Assunção M. F. dos Santos”.
-
-
+He plays a violin copy of Joseph Guarnerius's "Cannon", built by luthier "[Eng. Joaquim Domingos Capela] – 2000 – in honor of José Francisco dos Santos and Maria Assunção M. F. dos Santos".
 
 [Quarteto Douro]: https://www.quartetodouro.eu/
 [Camerata NovNorte]: https://www.cameratanovnorte.eu/
