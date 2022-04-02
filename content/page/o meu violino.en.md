@@ -29,9 +29,6 @@ cover:
 > On one day I asked Eng. Joaquim Domingos Capela to write a short text about my violin, and to my astonishment this is the result...    
 > Thank you Eng. Joaquim Domingos Capela
 
-
-
-
 ## Brief History of the Guarnerius
 The city of Cremona, Italy, was in the sixteenth, seventeenth, and eighteenth century birthplace of notable families of luthiers, among others Amati, Guarnerius, Stradivarius and Ruggeris, who designed this city throughout Europe as the first and largest center of violin construction. 
 
@@ -71,25 +68,26 @@ As part of this exhibition, which takes place 250 years after his death, two ric
 
 With these violins were recorded works of famous composers by the great violinist Elmar Oliveira, the first American to win the gold medal (1st Prize) at the Tchaikovsky International Competition in 1978 in Moscow. He was born on June 28, 1950 in Waterbury, Connecticut, the son of a couple of Portuguese emigrants from Murtosa, Aveiro.
 
-## A Construção do Violino
-No ano 2000 construí o meu violino nº 9 que procura ser uma cópia do *“Cannon”*. Para o efeito foram usados elementos fotográficos e geométricos contidos nos dois volumes referidos.
+## The Construction of the Violin
 
-O tampo harmónico, em pinho dos Alpes e formado de duas partes, apresenta anéis de crescimento (veio ou fibra) estreitos no centro, alargando-se para o lado exterior. Os éfes, longilíneos e pontiagudos, recortados com bastante rigor, retratam uma das características mais emblemáticas dos violinos de “del Gesu”. A barra harmónica, posicionada segundo a regra de um sétimo, tem a altura de 12,5mm e a espessura de 5mm.
+In 2000 I built my violin no. 9 which seeks to be a copy of *"Cannon"*. Photographic and geometric elements contained in the two volumes mentioned above were used for this purpose.
 
-O fundo é de ácer com o ondulado disposto simétricamente próximo do original, mas no sentido descendente. O tampo e o fundo têm contornos e arqueamentos do original, mas as espessuras desviam-se parcialmente porque se procurou uma afinação com o intervalo de meio-tom entre eles, atingindo-se respectivamente ré# e mi. Os pesos ficaram com 70 e 102 gramas.
+The harmonic top, in pine of the Alps and formed of two parts, has narrow growth rings (shaft or fiber) in the center, extending to the outside. The ephes, longilíneos and pointed, cut with great rigor, portray one of the most emblematic characteristics of the violins of "del Gesu". The harmonic bar, positioned according to the rule of one seventh, has a height of 12.5mm and the thickness of 5mm.
 
-As ilhargas, enformadas em molde exterior, são de ácer ondulado disposto simetricamente. Estas estão ligadas por blocos e sanefas em pinho dos Alpes e no conjunto o peso é de 54 gramas.
+The background is acer with the wavy arranged symmetrically close to the original, but in the downward direction. The top and bottom have contours and arching of the original, but the thicknesses are partially diverted because an tuning was sought with the halftone interval between them, reaching respectively d# and e. The weights were 70 and 102 grams.
 
-As cabeças dos violinos de “del Gesu” são de uma geometria muito variável e apresentam um acabamento pouco cuidado. A do “Cannon” tem um aspecto densamente massivo e contrasta com outras frontalmente adelgaçadas. Não será exagerado lembrar aqui um velho ditado: ”cada cabeça , cada sentença”. Por analogia poder-se-ia dizer: “cada violino, cada cabeça”.
+The stols, shaped in outer mold, are corrugated acer arranged symmetrically. These are connected by blocks and sanefas in pine of the Alps and on the whole the weight is 54 grams.
 
-O verniz, aplicado à trincha, foi formulado na base de álcool e de resinas, tais como sandaraca, mastique em lágrimas, goma laca sem cera, goma elemi, essência de terbentina, essência de lavanda, óleo castor, etc.. A côr, levemente castanha, foi obtida pela adição de corantes como extracto de ratânia, goma guta, santal e aloés.
+The heads of the violins of "del Gesu" are of a very variable geometry and have a poorly careful finish. The Cannon's looks densely massive and contrasts with other frontally thin ones. It will not be exaggerated to remember here an old saying: "every head, every sentence". By analogy one could say: "every violin, every head".
 
-A montagem do cavalete, alma, cravelhas, cordas e estandarte baseou-se nas regras padronizadas para o violino moderno, não deixando contudo de haver correcções ao gosto do próprio violeiro.
+The varnish, applied to the brush, was formulated on the basis of alcohol and resins, such as sandaraca, mastic in tears, lacquer gum without wax, elemi gum, terbentin essence, lavender essence, beaver oil, etc.. The color, slightly brown, was obtained by adding dyes such as rataextract, gutta gum, santal and aloe.
 
-Os parâmetros acústicos violino, nomeadamente potência, projecção, igualdade entre cordas, características tímbricas e “playability” dominam o som procurado pelos instrumentistas. E é este actor o verdadeiro juiz. No caso presente o juiz do meu violino será o violinista [Gaspar Fonseca dos Santos][eu], para quem foi construído. 
+The assembly of the easel, soul, studs, strings and banner was based on the standardized rules for the modern violin, but there are corrections to the taste of the luthier himself.
+
+The acoustic parameters violin, namely power, projection, equality between strings, tymeric characteristics and "playability" dominate the sound sought by the instrumentalists. And this actor is the real judge. In the present case the judge of my violin will be the violinist [Gaspar Fonseca dos Santos][eu], for whom it was built.
 
 **Joaquim Domingos Capela**  
-Dezembro 2007  
+December 2007  
 São Fêlix da Marinha  
 V. N. de Gaia  
 Portugal
