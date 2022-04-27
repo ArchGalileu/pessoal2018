@@ -1,9 +1,9 @@
-const { redirect } = querystring.parse(event.headers.referer.split('?')[1]);
 const querystring = require('querystring');
 const axios = require('axios');
 
 exports.handler = async function (event, context) {
   const { password } = querystring.parse(event.body);
+  const { redirect } = querystring.parse(event.headers.referer.split('?')[1]);
 
   const endpoint = `${process.env.URL}/.netlify/identity/token`;
   const data = querystring.stringify({
