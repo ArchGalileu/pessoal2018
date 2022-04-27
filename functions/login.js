@@ -8,7 +8,7 @@ exports.handler = async function (event, context) {
   const endpoint = `${process.env.URL}/.netlify/identity/token`;
   const data = querystring.stringify({
     grant_type: 'password',
-    username: 'email@example.com',
+    username: 'proposta@gasparsantos.eu',
     password: password,
   });
   const options = {
