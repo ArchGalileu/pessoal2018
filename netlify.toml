@@ -5,3 +5,16 @@ publish = "public"
 command = "hugo --gc --minify" 
 #[build.processing]
 #    skip_processing = true
+[[redirects]]
+  from = "/proposta/*"
+  status = 200
+  force = true
+  conditions = {Role = ["pro"]}
+
+[[redirects]]
+  from = "/proposta/*"
+  to = "/.netlify/functions/redirect"
+  status = 200
+  force = true
+[functions]
+  directory = "functions"
