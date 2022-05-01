@@ -64,4 +64,7 @@ Qualquer questão não hesite em contactar
    
 +351 914 622 417  
   
-proposta@gasparsantos.eu
+proposta@gasparsantos.eu  
+  
+*Gaspar Santos Violinista, Unipessoal, Lda.* 
+*NIF: 510 409 741*
