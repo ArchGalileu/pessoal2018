@@ -50,7 +50,7 @@ Bilhetes
 
 Perdiocidade
 : todas as quinta-feiras pelas 18h (a nossa sugestão para que não seja alterada a dinâmica instaurada ao público, se entenderem que pode acontecer mais cedo, porque não :wink:
-: duração de 50 minutos de programa sem intervalo (à consideração naturalmente)
+: duração de 47 minutos de programa sem intervalo (à consideração naturalmente)
 
 Folha de sala
 : programa de sala repetido e apenas uma folha fornecida por nós evidentemente
@@ -58,4 +58,10 @@ Folha de sala
 Presença no espaço
 : Informação no exterior para facilitar a informação e aquisição de ingressos sendo obviamente identificados como adquiridos pela vossa bilheteira 
 
+---
 
+Qualquer questão não hesite em contactar  
+   
++351 914 622 417  
+  
+proposta@gasparsantos.eu
