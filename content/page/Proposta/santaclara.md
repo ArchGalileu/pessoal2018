@@ -5,6 +5,7 @@ description: Abril 2022, Porto, Portugal
 date: 2022-04-026T08:00:00+01:00
 authors: [gasparsantos]
 slug: /proposta/santa-clara
+noindex: true
 #menu: 
 #    - main
 #    - sidebar

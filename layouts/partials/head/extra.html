@@ -3,5 +3,17 @@
   blog by creating a file named `/layout/partials/head/extra.html`. This way you
   don't have to edit the theme itself.
 */}}
+{{/*
+  Umami server metrics on railway
+*/}}
 <script async defer data-website-id="f6ef8b47-7a28-4d45-a62e-ebe86eff4f9f" src="https://umami-production-b223.up.railway.app/umami.js"></script>
+{{/*
+  Netlify Identity Widget for protected pages
+*/}}
 <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{/*
+  No index option on frontmatter
+*/}}
+{{ if .Params.noindex }}
+<meta name="robots" content="noindex" />
+{{ end }}
