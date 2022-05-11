@@ -27,7 +27,7 @@ emoji: true
 #  style: normal
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
-> ao cuidado de Ana Lobão
+> ao cuidado de Lídia Neves
 
 **Gaspar Santos**, *violino*  
 *Sonatas e Partitas para Violino Solo, BWV 1001 a 1006, de Johann Sebastian Bach*
