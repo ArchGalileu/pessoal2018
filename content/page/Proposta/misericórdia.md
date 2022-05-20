@@ -49,7 +49,7 @@ Bilhetes
 : validação dos bilhetes com vulgar telemóvel e aplicação dedicada em conformidade com o termo acima referido  
 : os bilhetes só conseguem validar uma única vez
 
-Perdiocidade
+Periodicidade
 : todas as quinta-feiras pelas 18h (a nossa sugestão para que não seja alterada a dinâmica instaurada ao público, se entenderem que pode acontecer mais cedo, porque não :wink:
 : duração de 47 minutos de programa sem intervalo (à consideração naturalmente)
 
