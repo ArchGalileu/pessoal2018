@@ -8,7 +8,6 @@ cover:
     caption: por Virgílio Ferreira
     style: normal
 menu: 
-    - main
     - sidebar 
 weight: -270
 ---

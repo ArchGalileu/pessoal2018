@@ -6,7 +6,6 @@ description: porque... sim claro...
 #authors: [gasparsantos]
 slug: contato
 menu: 
-  - main
   - sidebar
 weight: 200
 draft: false

@@ -6,7 +6,6 @@ date: 2017-12-01T04:52:03+01:00
 authors: [gasparsantos]
 slug: /o-meu-violino
 menu: 
-    - main
     - sidebar
 weight: 1
 draft: false

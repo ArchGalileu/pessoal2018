@@ -1,13 +1,13 @@
 ---
-title: "Bilhetes"
+title: "Tickets"
 #linktitle:
-description: Aquisição para Bach em Violino Solo
+description: Buy tickets to Bach Solo Violin
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
-slug: bilhetes
+slug: tickets
 menu: 
   - sidebar
-weight: 200
+weight: 6
 draft: true
 showReadingTime: false
 ---

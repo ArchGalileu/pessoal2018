@@ -49,7 +49,7 @@ showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
-hideMainMenu = true
+hideMainMenu = false
 
 [params.sidebar]
 enable = true

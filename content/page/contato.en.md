@@ -6,7 +6,6 @@ description: because... yes of course...
 #authors: [gasparsantos]
 slug: contact
 menu: 
-  - main
   - sidebar
 weight: 200
 draft: false

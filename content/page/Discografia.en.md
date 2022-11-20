@@ -6,7 +6,6 @@ date: 2020-03-20T00:00:00+01:00
 authors: [gasparsantos]
 slug: /discography
 menu: 
-    - main
     - sidebar
 weight: 1
 draft: false
