@@ -11,24 +11,12 @@ weight: 6
 draft: false
 showReadingTime: false
 ---
-Every Thursday at 17:30 from 1 December 2022
+![](/images/square_post.png)---
 
----
-
-**Johann Sebastian Bach**  
-*Sonata I em sol menor para Violino Solo, BWV 1001*  
-*Partita em si menor para Violino Solo, BWV 1002*  
-  
-**Gaspar Santos**, *violino*
-
----
-
-Igreja da Misericórdia, Porto 
-Rua das Flores 15, 4050-542 Porto
-
-*Coordinates: 41.143479, -8.614564*
-
-Entry by MMipo - Museu da Misericórdia do Porto
+**Igreja da Misericórdia, Porto**  
+*Rua das Flores 15, 4050-542 Porto*  
+*Coordinates: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
+*Entry by [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*  
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css">

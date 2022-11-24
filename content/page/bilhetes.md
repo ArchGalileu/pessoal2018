@@ -1,7 +1,7 @@
 ---
 title: "Bilhetes"
 #linktitle:
-description: para Bach Violino Solo na Igreja da Misericórdia, Porto
+description: todas as Quinta-feira pelas 17:30 a partir de 1 de Dezembro de 2022
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
 slug: bilhetes
@@ -10,26 +10,21 @@ menu:
 weight: 200
 draft: false
 showReadingTime: false
----
-Todas as Quinta-feira pelas 17:30 a partir de 1 de Dezembro de 2022
-
----
-
-**Johann Sebastian Bach**  
-*Sonata I em sol menor para Violino Solo, BWV 1001*  
-*Partita em si menor para Violino Solo, BWV 1002*  
-  
-**Gaspar Santos**, *violino*
-
+#image: /images/square post.png
+#cover:
+#  image: /images/square post.png
+#  alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
+#  caption: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
+#  style: normal
+# {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
 
-Igreja da Misericórdia, Porto 
-Rua das Flores 15, 4050-542 Porto
+![](/images/square_post.png)
 
-*Coordenadas: 41.143479, -8.614564*
-
-Entrada pelo MMipo - Museu da Misericórdia do Porto
-
+**Igreja da Misericórdia, Porto**  
+*Rua das Flores 15, 4050-542 Porto*  
+*Coordenadas: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
+*Entrada pelo [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*  
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css">
