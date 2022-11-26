@@ -5,6 +5,8 @@ description: Thursdays at 17:00 from 1 December 2022
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
 slug: tickets
+aliases:
+  - /en/bilhetes
 menu: 
   - sidebar
 weight: 6
