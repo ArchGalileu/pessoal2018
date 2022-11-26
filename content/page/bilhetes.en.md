@@ -13,7 +13,7 @@ weight: 6
 draft: false
 showReadingTime: false
 ---
-![](/images/post.png)---
+![](/images/post.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css">

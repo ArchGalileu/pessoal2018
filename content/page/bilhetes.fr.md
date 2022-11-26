@@ -11,7 +11,7 @@ weight: 6
 draft: false
 showReadingTime: false
 ---
-![](/images/post.png)---
+![](/images/post.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://tickets.gasparsantos.eu/widget/v1.css">
