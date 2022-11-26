@@ -11,7 +11,8 @@ menu:
     - sidebar 
 weight: -270
 ---
-Born in Espinho in 1979. He began his musical studies at the age of eight at the Academy of Music of S. Félix da Marinha in the violin class of Professor Odete Ramos. At the age of eleven he joined the Professional and Artistic School of Vale do Ave (ARTAVE), where he completed the basic course of string instrumentalist, under the guidance of Professor David Lloyd. During this period of his training he attended the Orquestra Artave with which he toured the main cities of Brazil. 
+Born in Espinho in 1979. He began his musical studies at the age of eight at the Academy of Music of S. Félix da Marinha in the violin class of Professor Odete Ramos.  
+At the age of eleven he joined the Professional and Artistic School of Vale do Ave (ARTAVE), where he completed the basic course of string instrumentalist, under the guidance of Professor David Lloyd. During this period of his training he attended the Orquestra Artave with which he toured the main cities of Brazil. 
 
 He later joined the Conservatório de Música do Porto to study with Professor Radu Ungureanu. 
 

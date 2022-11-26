@@ -1,10 +1,10 @@
 ---
-title: "Tickets"
+title: "Billette"
 #linktitle:
-description: Thursdays at 17:00 from 1 December 2022
+description: Donnerstags um 17:00 Uhr ab 1. Dezember 2022
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
-slug: tickets
+slug: billette
 menu: 
   - sidebar
 weight: 6
@@ -15,7 +15,7 @@ showReadingTime: false
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css">
-<script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 
 <pretix-widget event="https://pretix.eu/gfs/bach2022/"></pretix-widget>
 <noscript>
@@ -29,17 +29,17 @@ showReadingTime: false
 
 ---
 
-*Program*
+*Programm*  
 
-**Johann Sebastian Bach**  
-*Sonata in g minor for solo violin, BWV 1001*  
-*Partita in b minor for solo violin, BWV 1002*  
+**Johann Sebastian Bach**   
+*Sonate g-Moll für Violine solo, BWV 1001*  
+*Partita h-Moll für Violine solo, BWV 1002*  
 
-**Gaspar Santos**, *violin*
+**Gaspar Santos**, *Violine*  
 
-*duration: about 50 minutes*
+*Dauer: ca. 50 Minuten*  
 
 **Igreja da Misericórdia, Porto**  
 *Rua das Flores 15, 4050-542 Porto*  
-*Coordinates: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
-*Entry by [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*  
+*Koordinaten: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
+*Eintrag von [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*

@@ -150,6 +150,21 @@ lang = "pt"
 languageName = "PT"
 weight = 1
 
+[languages.fr]
+lang = "fr"
+languageName = "FR"
+weight = 3
+
+[languages.de]
+lang = "de"
+languageName = "DE"
+weight = 4
+
+#[languages.at]
+#lang = "at"
+#languageName = "AT"
+#weight = 5
+
 [privacy]
   [privacy.disqus]
     disable = false
