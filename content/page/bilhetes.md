@@ -1,7 +1,7 @@
 ---
 title: "Bilhetes"
 #linktitle:
-description: todas as Quinta-feira pelas 17:00 a partir de 1 de Dezembro de 2022
+description: às Quintas-feiras pelas 17:00 a partir de 1 de Dezembro de 2022
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
 slug: bilhetes
