@@ -19,7 +19,7 @@ showReadingTime: false
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
 
-![](/images/square_post.png)
+![](/images/post.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach2022/widget/v1.css">
