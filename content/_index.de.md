@@ -31,7 +31,7 @@ Er war Teil des Walter Hidalgo Tango Quartetts (2004-2007). Er trat bei TeCA und
 
 Studium bei Radu Ungureanu an der ESMAE.  
 
-Gründungsmitglied des [Quarteto Douro] und der [Camerata NovNorte].  
+Gründungsmitglied des [Quarteto Douro] und der Camerata NovNorte.  
 
 Concertino der Fundação Orquestra Estúdio - Guimarães 2012 - Kulturhauptstadt Europas.  
 
