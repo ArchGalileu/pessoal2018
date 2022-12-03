@@ -13,7 +13,7 @@ showReadingTime: false
 #image: /images/square post.png
 #cover:
 #  image: /images/square post.png
-#  alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
+#  alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I) a
 #  caption: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
 #  style: normal
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
