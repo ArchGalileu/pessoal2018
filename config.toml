@@ -160,10 +160,10 @@ lang = "de"
 languageName = "DE"
 weight = 4
 
-#[languages.at]
-#lang = "at"
-#languageName = "AT"
-#weight = 5
+[languages.es]
+lang = "es"
+languageName = "ES"
+weight = 5
 
 [privacy]
   [privacy.disqus]
