@@ -89,7 +89,7 @@ El montaje del caballete, núcleo, clavijas, cuerdas y estandarte se basó en re
 Los parámetros acústicos del violín, a saber, la potencia, la proyección, la igualdad entre las cuerdas, las características del timbre y la "tocabilidad" dominan el sonido que buscan los instrumentistas. Y este actor es el verdadero juez. En el presente caso, el juez de mi violín será el violinista [Gaspar Fonseca dos Santos][eu], para quien fue construido.
 
 **Joaquim Domingos Capela**  
-Dezembro 2007  
+Diciembre 2007  
 São Fêlix da Marinha  
 V. N. de Gaia  
 Portugal
