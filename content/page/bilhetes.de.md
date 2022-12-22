@@ -1,7 +1,7 @@
 ---
 title: "Billette"
 #linktitle:
-description: Donnerstags um 17:00 Uhr ab 1. Dezember 2022
+description: Konzert donnerstags um 17:00
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
 slug: billette

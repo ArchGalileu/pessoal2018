@@ -1,7 +1,7 @@
 ---
 title: "Billets"
 #linktitle:
-description: Les jeudis à 17h00 à partir du 1er décembre 2022
+description: Concert les jeudis à 17h00
 #date: 2017-12-01T04:52:03+01:00
 #authors: [gasparsantos]
 slug: billets
