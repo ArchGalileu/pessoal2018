@@ -37,7 +37,7 @@ showReadingTime: false
 *Sonata in g minor for solo violin, BWV 1001*  
 *Partita in b minor for solo violin, BWV 1002*  
 
-**Gaspar Santos**, *violin*
+**[Gaspar Santos](/)**, *violin*
 
 *duration: about 50 minutes*
 

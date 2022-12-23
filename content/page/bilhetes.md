@@ -43,7 +43,7 @@ showReadingTime: false
 *Sonata em sol menor para Violino Solo, BWV 1001*  
 *Partita em si menor para Violino Solo, BWV 1002*  
 
-**Gaspar Santos**, *violino*
+**[Gaspar Santos](/)**, *violino*
 
 *duração: cerca 50 minutos*
 
