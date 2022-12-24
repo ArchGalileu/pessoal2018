@@ -35,7 +35,7 @@ showReadingTime: false
 *Sonate g-Moll für Violine solo, BWV 1001*  
 *Partita h-Moll für Violine solo, BWV 1002*  
 
-**Gaspar Santos**, *Violine*  
+**[Gaspar Santos](/de/)**, *Violine*  
 
 *Dauer: ca. 50 Minuten*  
 

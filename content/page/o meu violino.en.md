@@ -92,4 +92,4 @@ V. N. de Gaia
 Portugal
 
 [eng]: /images/engcapela.webp
-[eu]: /
+[eu]: /en/

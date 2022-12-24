@@ -35,7 +35,7 @@ showReadingTime: false
 *Sonate en sol mineur pour violon seul, BWV 1001*  
 *Partita en si mineur pour violon seul, BWV 1002*  
 
-**Gaspar Santos**, *violon*
+**[Gaspar Santos](/fr/)**, *violon*
 
 *Durée: environ 50 minutes*
 
