@@ -15,9 +15,9 @@ showReadingTime: false
 ---
 ![](/images/viralagenda.png)
 
-You can purchase tickets from the calendar below or from [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
+You can purchase tickets on the calendar below or at [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
 
-We accept, online only, payment in ![Bitcoin por Lightning Network](/images/bitcoinsmall.png)
+We accept, in addition to cards and transfers, online payments in ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css">

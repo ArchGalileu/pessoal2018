@@ -23,7 +23,7 @@ showReadingTime: false
 
 Puede comprar boletos en el calendario a continuación o en [MMipo - Museu da Misericórdia do Porto] (https://www.mmipo.pt/)
 
-¡Solo aceptamos pagos en línea en ![Bitcoin a través de Lightning Network](/images/bitcoinsmall.png)
+Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach2022/widget/v1.css">
