@@ -19,7 +19,11 @@ showReadingTime: false
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
 
-![](/images/post.png)
+![](/images/viralagenda.png)
+
+Pode adquirir bilhetes no calendário abaixo ou no [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
+
+Aceitamos, apenas online, pagamento em ![Bitcoin por Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach2022/widget/v1.css">

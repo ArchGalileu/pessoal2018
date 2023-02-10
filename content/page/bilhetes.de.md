@@ -11,7 +11,11 @@ weight: 6
 draft: false
 showReadingTime: false
 ---
-![](/images/post.png)
+![](/images/viralagenda.png)
+
+Sie können Tickets im Kalender unten oder bei [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/) kaufen.
+
+Wir akzeptieren nur Online-Zahlungen in ![Bitcoin over Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css">

@@ -11,7 +11,11 @@ weight: 6
 draft: false
 showReadingTime: false
 ---
-![](/images/post.png)
+![](/images/viralagenda.png)
+
+Vous pouvez acheter des billets à partir du calendrier ci-dessous ou auprès de [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
+
+Nous acceptons, en ligne uniquement, les paiements en ![Bitcoin por Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
 <link rel="stylesheet" type="text/css" href="https://tickets.gasparsantos.eu/widget/v1.css">
