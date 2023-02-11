@@ -21,7 +21,7 @@ showReadingTime: false
 
 ![](/images/viralagenda.png)
 
-Pode adquirir bilhetes no calendário abaixo ou no [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
+Pode adquirir bilhetes online no calendário abaixo ou de forma presencial na bilheteira do [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
 
 Aceitamos, além de cartões e transferências, também em online pagamento em ![Bitcoin por Lightning Network](/images/bitcoinsmall.png)
 

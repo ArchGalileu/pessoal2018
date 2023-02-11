@@ -21,7 +21,7 @@ showReadingTime: false
 
 ![](/images/viralagenda.png)
 
-Puede comprar boletos en el calendario a continuación o en [MMipo - Museu da Misericórdia do Porto] (https://www.mmipo.pt/)
+Puede comprar boletos en línea en el calendario a continuación o en persona en la taquilla de [MMipo - Museu da Misericordia do Porto] (https://www.mmipo.pt/)
 
 Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
