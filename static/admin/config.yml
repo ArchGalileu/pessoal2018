@@ -3,14 +3,30 @@ backend:
 #  branch: main # Branch to update (optional; defaults to master)
 media_folder: static/images
 public_folder: /images
+publish_mode: editorial_workflow
+site_url: https://www.gasparsantos.eu
+logo_url: https://your-site.com/images/favicon.png
+sortable_fields: ['commit_date', 'title', 'commit_author', 'language.en']
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'page'
+    label: 'Page'
+    folder: 'content/page'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{title}}'
     editor:
-      preview: false
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'concertos'
+    label: 'Concertos'
+    folder: 'content/concertos'
+    create: true
+    slug: '{{title}}'
+    editor:
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
