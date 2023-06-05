@@ -36,10 +36,10 @@ table, tl, tr, th, td {
 
 |              |       |
 |--------------|------:|
-| {{< icon "fab spotify" >}} Spotify     | [{{< icon "far play" >}}](https://open.spotify.com/album/7s0pLID0Kqvts19acGKuxc) |
-| {{< svg "tidal.svg" >}} Tidal | [{{< icon "far play" >}}](https://listen.tidal.com/album/222183927) |
-| {{< icon "fab amazon" >}} Amazon Music | [{{< icon "far play" >}}](https://music.amazon.com/albums/B09WB2KDB3) |
-| {{< icon "fab deezer" >}} Deezer       | [{{< icon "far play" >}}](https://www.deezer.com/album/305246727) |
+| {{< icon "fab spotify" >}} Spotify     | [{{< icon "fas play" >}}](https://open.spotify.com/album/7s0pLID0Kqvts19acGKuxc) |
+| {{< svg "tidal.svg" >}} Tidal | [{{< icon "fas play" >}}](https://listen.tidal.com/album/222183927) |
+| {{< icon "fab amazon" >}} Amazon Music | [{{< icon "fas play" >}}](https://music.amazon.com/albums/B09WB2KDB3) |
+| {{< icon "fab deezer" >}} Deezer       | [{{< icon "fas play" >}}](https://www.deezer.com/album/305246727) |
 
 ---
 
