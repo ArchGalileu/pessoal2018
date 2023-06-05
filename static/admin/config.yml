@@ -6,7 +6,6 @@ public_folder: /images
 publish_mode: editorial_workflow
 site_url: https://www.gasparsantos.eu
 logo_url: https://your-site.com/images/favicon.png
-sortable_fields: ['commit_date', 'title', 'commit_author', 'language.en']
 collections:
   - name: 'page'
     label: 'Page'
