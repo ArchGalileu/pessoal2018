@@ -6,11 +6,25 @@ public_folder: /images
 publish_mode: editorial_workflow
 site_url: https://www.gasparsantos.eu
 logo_url: https://your-site.com/images/favicon.png
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_files
+
+  # Required - a list of locales to show in the editor UI
+  locales: [pt, en, de, fr, es, de]
+
+  # Optional, defaults to the first item in locales.
+  # The locale to be used for fields validation and as a baseline for the entry.
+  default_locale: pt
 collections:
   - name: 'page'
     label: 'Page'
     folder: 'content/page'
     create: true
+    i18n: true
     slug: '{{title}}'
     editor:
       preview: true
