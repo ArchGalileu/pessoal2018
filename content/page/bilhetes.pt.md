@@ -10,7 +10,7 @@ menu:
 weight: 6
 draft: false
 showReadingTime: false
-#image: /images/square post.png
+image: /images/viralagenda.png
 #cover:
 #  image: /images/square post.png
 #  alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I) a
