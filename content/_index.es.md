@@ -1,6 +1,6 @@
 ---
 title: Comenzando
-description: Quien soy...
+#description: Quien soy...
 date: 2017-01-01T08:00:00+00:00
 authors: ["gasparsantos"]
 cover: 

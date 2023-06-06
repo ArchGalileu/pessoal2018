@@ -1,6 +1,6 @@
 ---
 title: Accueil
-description: Qui suis-je...
+#description: Qui suis-je...
 date: 2017-01-01T08:00:00+00:00
 authors: ["gasparsantos"]
 cover: 

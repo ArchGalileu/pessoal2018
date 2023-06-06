@@ -1,6 +1,6 @@
 ---
 title: Início
-description: Quem sou...
+#description: 
 date: 2017-01-01T08:00:00+00:00
 authors: ["gasparsantos"]
 cover: 

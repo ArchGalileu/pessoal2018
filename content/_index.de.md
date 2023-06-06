@@ -1,7 +1,7 @@
 
 ---
 title: Anfang
-description: Wer bin ich...
+#description: Wer bin ich...
 date: 2017-01-01T08:00:00+00:00
 authors: ["gasparsantos"]
 cover: 

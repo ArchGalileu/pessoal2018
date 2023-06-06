@@ -18,3 +18,11 @@
 <meta name="robots" content="noindex" />
 {{ end }}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant+Garamond">
+
+<!-- BY Me hreflang -->
+{{ if .IsTranslated }}
+    {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+    {{ end }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}

@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Who am i...
+#description: Who am i...
 date: 2017-01-01T08:00:00+00:00
 authors: ["gasparsantos"]
 cover: 

@@ -144,26 +144,37 @@ page = "/:slug/"
 lang = "en"
 languageName = "EN"
 weight = 2
+description = "Gaspar Santos Violinist, personal website and ticket office"
+mydomain = "www.gasparsantos.eu/en/ 🇬🇧"
+
 
 [languages.pt.params]
 lang = "pt"
 languageName = "PT"
 weight = 1
+description = "Gaspar Santos Violinista, website pessoal e bilheteira"
+mydomain = "www.gasparsantos.eu/ 🇵🇹"
 
 [languages.fr.params]
 lang = "fr"
 languageName = "FR"
 weight = 3
+description = "Gaspar Santos Violoniste, site Web personnel et billetterie"
+mydomain = "www.gasparsantos.eu/fr/ 🇫🇷"
 
 [languages.de.params]
 lang = "de"
 languageName = "DE"
 weight = 4
+description = "Gaspar Santos Violinist, persönliche Website und Abendkasse"
+mydomain = "www.gasparsantos.eu/de/ 🇩🇪"
 
 [languages.es.params]
 lang = "es"
 languageName = "ES"
 weight = 5
+description = "Gaspar Santos Violinista, web personal y taquilla"
+mydomain = "www.gasparsantos.eu/es/ 🇪🇸"
 
 [privacy]
   [privacy.disqus]
