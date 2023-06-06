@@ -1,29 +1,21 @@
 ---
-title: "Discografia"
-linktitle: discografia
-description: Bach Solo
-date: 2020-03-20T00:00:00+01:00
-authors: [gasparsantos]
-slug: /discografia
-menu: 
-    - sidebar
-weight: 1
 draft: false
+authors:
+  - gasparsantos
 toc: false
-#markup: mmark
-#emoji: true
-#categories: 
-#    - features
-#tags:
-#    - teste 1
-#    - teste 2
-#image:/images/engcapela.webp
+slug: discografia
+date: 2020-03-20T00:00:00+01:00
 cover:
   image: /images/disco.jpg
   alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
   caption: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
   style: normal
-# {{< imgcap title="Eng. Domingos Capela" src="/images/disco.jpg" >}}
+title: Discografia
+weight: 1
+description: Bach Solo
+linktitle: discografia
+menu:
+  - sidebar
 ---
 
 {{< rawhtml >}}

@@ -1,11 +1,12 @@
 backend:
   name: git-gateway
 #  branch: main # Branch to update (optional; defaults to master)
+local_backend: true
 media_folder: static/images
 public_folder: /images
 publish_mode: editorial_workflow
 site_url: https://www.gasparsantos.eu
-logo_url: https://your-site.com/images/favicon.png
+logo_url: https://www.gasparsantos.eu/images/favicon.png
 i18n:
   # Required and can be one of multiple_folders, multiple_files or single_file
   # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
@@ -18,12 +19,8 @@ i18n:
 
   # Optional, defaults to the first item in locales.
   # The locale to be used for fields validation and as a baseline for the entry.
-  default_locale: en
+  default_locale: pt
 collections:
-  - name: i18n_content
-    # same as the top level, but all fields are optional and defaults to the top level
-    # can also be a boolean to accept the top level defaults
-    i18n: true
   - name: 'page'
     label: 'Page'
     folder: 'content/page'
@@ -33,11 +30,12 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: "Draft", name: "draft", widget: "boolean", default: "true", i18n:"true" }
-      - { label: 'Title', name: 'title', widget: 'string', i18n:"true" }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', i18n:"duplicate" }
-      - { label: 'Description', name: 'description', widget: 'string', i18n:"true" }
-      - { label: 'Body', name: 'body', widget: 'markdown', i18n:"true" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: "true", i18n: duplicate }
+      - { label: "Slug", name: "slug", widget: "string", default: "{{slug}}", i18n: true }
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', i18n: duplicate }
+      - { label: 'Description', name: 'description', widget: 'string', i18n: true }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
   - name: 'concertos'
     label: 'Concertos'
     folder: 'content/concertos'
@@ -47,7 +45,7 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', i18n:"true" }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', i18n:"duplicate" }
-      - { label: 'Description', name: 'description', widget: 'string', i18n:"true" }
-      - { label: 'Body', name: 'body', widget: 'markdown', i18n:"true" }
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', i18n: duplicate }
+      - { label: 'Description', name: 'description', widget: 'string', i18n: true }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }

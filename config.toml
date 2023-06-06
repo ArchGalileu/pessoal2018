@@ -140,27 +140,27 @@ page = "/:slug/"
 
 [languages]
 # edit this block for your own language
-[languages.en]
+[languages.en.params]
 lang = "en"
 languageName = "EN"
 weight = 2
 
-[languages.pt]
+[languages.pt.params]
 lang = "pt"
 languageName = "PT"
 weight = 1
 
-[languages.fr]
+[languages.fr.params]
 lang = "fr"
 languageName = "FR"
 weight = 3
 
-[languages.de]
+[languages.de.params]
 lang = "de"
 languageName = "DE"
 weight = 4
 
-[languages.es]
+[languages.es.params]
 lang = "es"
 languageName = "ES"
 weight = 5

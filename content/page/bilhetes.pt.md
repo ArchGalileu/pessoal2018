@@ -7,7 +7,7 @@ description: Concerto às Quintas-feiras pelas 17:00
 slug: bilhetes
 menu: 
   - sidebar
-weight: 200
+weight: 6
 draft: false
 showReadingTime: false
 #image: /images/square post.png

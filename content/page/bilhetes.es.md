@@ -7,7 +7,7 @@ description: Concierto los jueves a las 17:00
 slug: entradas
 menu: 
   - sidebar
-weight: 200
+weight: 6
 draft: false
 showReadingTime: false
 #image: /images/square post.png
