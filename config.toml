@@ -5,6 +5,10 @@ copyright = ""
 
 theme = "minimo"
 
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+
 disqusShortname = ""
 googleAnalytics = ""
 
