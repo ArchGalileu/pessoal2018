@@ -19,3 +19,28 @@ command = "hugo --gc --minify"
   force = true
 [functions]
   directory = "functions"
+
+[[redirects]]
+from = "/*"
+to = "/404.html"
+status = 404
+
+[[redirects]]
+from = "/en/*"
+to = "/en/404.html"
+status = 404
+
+[[redirects]]
+from = "/de/*"
+to = "/de/404.html"
+status = 404
+
+[[redirects]]
+from = "/fr/*"
+to = "/de/404.html"
+status = 404
+
+[[redirects]]
+from = "/es/*"
+to = "/de/404.html"
+status = 404
