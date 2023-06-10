@@ -19,7 +19,7 @@
       {{- range .Translations -}}
       <li class='item'>
         <a href='{{ .RelPermalink }}'>
-          {{- site.LanguageCode -}}
+          {{- .Site.LanguageCode -}}
         </a>
       </li>
       {{- end -}}
