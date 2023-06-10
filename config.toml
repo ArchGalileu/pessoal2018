@@ -22,7 +22,7 @@ pygmentsCodefences = true
 
 enableEmoji = true
 
-#languageCode = "pt"
+languageCode = "pt-pt"
 
 # Missing translations will default to this content language
 defaultContentLanguage = "pt"
@@ -152,15 +152,15 @@ page = "/:slug/"
 # edit this block for your own language
    [languages.pt]
       languageName = "PT"
-      lang = "pt"
+      languageCode = "pt"
       weight = 1
       [languages.pt.params]
          description = "Gaspar Santos Violinista, website pessoal e bilheteira"
          mydomain = "www.gasparsantos.eu/ 🇵🇹"
 
-   [lang.languages]
-      en = "en"
+   [languages.en]
       languageName = "EN"
+      languageCode = "en"
       weight = 2
       [languages.en.params]
          description = "Gaspar Santos Violinist, personal website and ticket office"
@@ -168,14 +168,14 @@ page = "/:slug/"
 
    [languages.fr]
       lang = "fr"
-      languageName = "FR"
+      languageCode = "fr"
       weight = 3
       [languages.fr.params]
          description = "Gaspar Santos Violoniste, site Web personnel et billetterie"
          mydomain = "www.gasparsantos.eu/fr/ 🇫🇷"
 
    [languages.de]
-      lang = "de"
+      languageCode = "de"
       languageName = "DE"
       weight = 4
       [languages.de.params]
@@ -183,7 +183,7 @@ page = "/:slug/"
          mydomain = "www.gasparsantos.eu/de/ 🇩🇪"
 
    [languages.es]
-      lang = "es"
+      languageCode = "es"
       languageName = "ES"
       weight = 5
       [languages.es.params]
