@@ -3,28 +3,28 @@
 <meta property="og:description" content="{{ if .context.Description }}{{ .context.Description }}{{ else }}{{ .context.Site.Params.description }}{{ end }}">
 <meta property="og:site_name" content="{{ .context.Site.Params.mydomain }}">
 <meta property="og:url" content="{{ .href }}">
-{{ if eq .context.Site.Language.Lang "pt" }}
+{{ if eq .context.Site.LanguageCode "pt" }}
   <meta property="og:locale" content="pt_PT">
   <meta property="og:locale:alternate" content="en_GB">
   <meta property="og:locale:alternate" content="de_DE">
   <meta property="og:locale:alternate" content="fr_FR">
   <meta property="og:locale:alternate" content="es_ES">
 {{ end }}
-{{ if eq .context.Site.Language.Lang "en" }}
+{{ if eq .context.Site.LanguageCode "en" }}
   <meta property="og:locale" content="en_GB">
   <meta property="og:locale:alternate" content="pt_PT">
   <meta property="og:locale:alternate" content="de_DE">
   <meta property="og:locale:alternate" content="fr_FR">
   <meta property="og:locale:alternate" content="es_ES">
 {{ end }}
-{{ if eq .context.Site.Language.Lang "fr" }}
+{{ if eq .context.Site.LanguageCode "fr" }}
   <meta property="og:locale" content="fr_FR">
   <meta property="og:locale:alternate" content="pt_PT">
   <meta property="og:locale:alternate" content="en_GB">
   <meta property="og:locale:alternate" content="de_DE">
   <meta property="og:locale:alternate" content="es_ES">
 {{ end }}
-{{ if eq .context.Site.Language.Lang "de" }}
+{{ if eq .context.Site.LanguageCode "de" }}
   <meta property="og:locale" content="de_DE">
   <meta property="og:locale:alternate" content="pt_PT">
   <meta property="og:locale:alternate" content="en_GB">

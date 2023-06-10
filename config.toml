@@ -167,7 +167,7 @@ page = "/:slug/"
          mydomain = "www.gasparsantos.eu/en/ 🇬🇧"
 
    [languages.fr]
-      lang = "fr"
+      languageName = "FR"
       languageCode = "fr"
       weight = 3
       [languages.fr.params]
@@ -175,16 +175,16 @@ page = "/:slug/"
          mydomain = "www.gasparsantos.eu/fr/ 🇫🇷"
 
    [languages.de]
-      languageCode = "de"
       languageName = "DE"
+      languageCode = "de"
       weight = 4
       [languages.de.params]
          description = "Gaspar Santos Violinist, persönliche Website und Abendkasse"
          mydomain = "www.gasparsantos.eu/de/ 🇩🇪"
 
    [languages.es]
-      languageCode = "es"
       languageName = "ES"
+      languageCode = "es"
       weight = 5
       [languages.es.params]
          description = "Gaspar Santos Violinista, web personal y taquilla"
