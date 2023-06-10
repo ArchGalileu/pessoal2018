@@ -22,7 +22,7 @@ pygmentsCodefences = true
 
 enableEmoji = true
 
-languageCode = "pt"
+#languageCode = "pt"
 
 # Missing translations will default to this content language
 defaultContentLanguage = "pt"
