@@ -25,7 +25,7 @@ enableEmoji = true
 languageCode = "pt-pt"
 
 # Missing translations will default to this content language
-defaultContentLanguage = "pt"
+defaultContentLanguage = "pt-pt"
 
 [author]
   name = "Gaspar Santos"
