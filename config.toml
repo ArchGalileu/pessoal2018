@@ -148,13 +148,6 @@ page = "/:slug/"
 
 [languages]
 # edit this block for your own language
-[languages.en.params]
-lang = "en"
-languageName = "EN"
-weight = 2
-description = "Gaspar Santos Violinist, personal website and ticket office"
-mydomain = "www.gasparsantos.eu/en/ 🇬🇧"
-
 
 [languages.pt.params]
 lang = "pt"
@@ -162,6 +155,13 @@ languageName = "PT"
 weight = 1
 description = "Gaspar Santos Violinista, website pessoal e bilheteira"
 mydomain = "www.gasparsantos.eu/ 🇵🇹"
+
+[languages.en.params]
+lang = "en"
+languageName = "EN"
+weight = 2
+description = "Gaspar Santos Violinist, personal website and ticket office"
+mydomain = "www.gasparsantos.eu/en/ 🇬🇧"
 
 [languages.fr.params]
 lang = "fr"
