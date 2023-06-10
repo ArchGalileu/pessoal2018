@@ -3,3 +3,21 @@
     display: none;
 }
 */
+.icon {
+    width: 1em;
+    height: 1em;
+    /* Font-Awesome recommends -.125em vertical alignment (https://fontawesome.com/how-to-use/on-the-web/advanced/svg-symbols)
+       However, I mostly find myself using the following which looks better for some icons: */
+    vertical-align: -.140em;
+    fill: initial;
+}
+
+body, button, input, select, textarea {
+    font-family: Cormorant Garamond, medium;
+    font-size: 2em;
+}
+
+.title, h1, h2, h3, h4, h5, h6, p {
+    font-family: Cormorant Garamond, medium;
+    font-size: 2em;
+}
