@@ -150,41 +150,45 @@ page = "/:slug/"
 
 [languages]
 # edit this block for your own language
+   [languages.pt]
+      languageName = "PT"
+      lang = "pt"
+      weight = 1
+      [languages.pt.params]
+         description = "Gaspar Santos Violinista, website pessoal e bilheteira"
+         mydomain = "www.gasparsantos.eu/ 🇵🇹"
 
-[languages.pt]
-lang = "pt"
-languageName = "PT"
-weight = 1
-description = "Gaspar Santos Violinista, website pessoal e bilheteira"
-mydomain = "www.gasparsantos.eu/ 🇵🇹"
+   [lang.languages]
+      en = "en"
+      languageName = "EN"
+      weight = 2
+      [languages.en.params]
+         description = "Gaspar Santos Violinist, personal website and ticket office"
+         mydomain = "www.gasparsantos.eu/en/ 🇬🇧"
 
-[languages.en]
-lang = "en"
-languageName = "EN"
-weight = 2
-description = "Gaspar Santos Violinist, personal website and ticket office"
-mydomain = "www.gasparsantos.eu/en/ 🇬🇧"
+   [languages.fr]
+      lang = "fr"
+      languageName = "FR"
+      weight = 3
+      [languages.fr.params]
+         description = "Gaspar Santos Violoniste, site Web personnel et billetterie"
+         mydomain = "www.gasparsantos.eu/fr/ 🇫🇷"
 
-[languages.fr]
-lang = "fr"
-languageName = "FR"
-weight = 3
-description = "Gaspar Santos Violoniste, site Web personnel et billetterie"
-mydomain = "www.gasparsantos.eu/fr/ 🇫🇷"
+   [languages.de]
+      lang = "de"
+      languageName = "DE"
+      weight = 4
+      [languages.de.params]
+         description = "Gaspar Santos Violinist, persönliche Website und Abendkasse"
+         mydomain = "www.gasparsantos.eu/de/ 🇩🇪"
 
-[languages.de]
-lang = "de"
-languageName = "DE"
-weight = 4
-description = "Gaspar Santos Violinist, persönliche Website und Abendkasse"
-mydomain = "www.gasparsantos.eu/de/ 🇩🇪"
-
-[languages.es]
-lang = "es"
-languageName = "ES"
-weight = 5
-description = "Gaspar Santos Violinista, web personal y taquilla"
-mydomain = "www.gasparsantos.eu/es/ 🇪🇸"
+   [languages.es]
+      lang = "es"
+      languageName = "ES"
+      weight = 5
+      [languages.es.params]
+         description = "Gaspar Santos Violinista, web personal y taquilla"
+         mydomain = "www.gasparsantos.eu/es/ 🇪🇸"
 
 [privacy]
   [privacy.disqus]
