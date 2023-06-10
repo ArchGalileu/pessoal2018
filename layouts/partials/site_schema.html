@@ -1,0 +1,69 @@
+{{ if .IsHome -}}
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
+    "license": "{{ .Site.Params.Copyright }}"
+}
+</script>
+{{ else if eq .Params.type "event" }}
+{{ $author :=  or (.Params.author) (.Site.Author.name) }}
+{{ $org_name :=  "Gaspar Santos Violinista, Unipessoal, Lda" }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "location": {
+        "@type": "MusicVenue",
+        "name": "Igreja Privativa do MMipo - Museu da Misericórdia do Porto",
+        "address": "Rua das Flores 15, Porto, PORTUGAL"
+        "url": "https://www.mmipo.pt/ "  
+      },
+      "name": "Sonatas and Partitas for Solo Violin - part I", 
+      "duration": "PT50M",
+      "eventSchedule": {
+         "@type": "Schedule",
+         "startDate": "2022-12-01",
+         "endDate": "2023-12-31",
+         "repeatFrequency": "P1W",
+         "byDay": "https://schema.org/Thursday",
+         "doorTime" : "16:30:00", 
+         "startTime": "17:00:00",
+         "endTime": "17:50:00",
+         "scheduleTimezone": "Europe/Lisbon"
+  }
+      "offers": {
+        "@type": "Offer",
+          "url": "{{ .Permalink }}",
+        "price": "15",
+        "priceCurrency": "EUR",
+      },
+      "performer": [
+        {
+          "@type": "Person",
+          "image": "/images/gaspar.png",
+          "name": "Gaspar Santos",
+          "sameAs": "{{ .Site.BaseURL }}"
+        }
+      ],
+      "startDate": "2014-05-23T20:00",
+      "workPerformed": [
+        {
+          "@type": "CreativeWork",
+          "name": "Sonata No. 1 in G minor, BWV 1001 from Johann Sebastian Bach",
+          "sameAs": "https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)#Sonata_No._1_in_G_minor,_BWV_1001"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Partita No. 1 in B minor, BWV 1002 from Johann Sebastian Bach",
+          "sameAs": "https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)#Partita_No._1_in_B_minor,_BWV_1002"
+        }
+      ]
+    }
+    </script>
+     {{ else if eq .Params.type "disco" }}
+{{ end }}

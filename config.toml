@@ -21,6 +21,10 @@ enableEmoji = true
 # Missing translations will default to this content language
 defaultContentLanguage = "pt"
 
+[author]
+  name = "Gaspar Santos"
+  license = "Gaspar Santos"
+
 [params.info]
 description = "Violinista"
 title404 = "Que procura?!"

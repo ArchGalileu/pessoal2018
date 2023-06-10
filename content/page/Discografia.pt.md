@@ -5,6 +5,7 @@ authors:
 toc: false
 slug: discografia
 date: 2020-03-20T00:00:00+01:00
+type: disco
 cover:
   image: /images/disco.jpg
   alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
