@@ -157,7 +157,6 @@ page = "/:slug/"
    [languages.pt]
       languageName = "PT"
       languageCode = "pt"
-      contentDir = "content.pt"
       weight = 1
       [languages.pt.params]
          description = "Gaspar Santos Violinista, website pessoal e bilheteira"
@@ -166,7 +165,6 @@ page = "/:slug/"
    [languages.en]
       languageName = "EN"
       languageCode = "en"
-      contentDir = "content.en"
       weight = 2
       [languages.en.params]
          description = "Gaspar Santos Violinist, personal website and ticket office"
@@ -175,7 +173,6 @@ page = "/:slug/"
    [languages.fr]
       languageName = "FR"
       languageCode = "fr"
-      contentDir = "content.fr"
       weight = 3
       [languages.fr.params]
          description = "Gaspar Santos Violoniste, site Web personnel et billetterie"
@@ -184,7 +181,6 @@ page = "/:slug/"
    [languages.de]
       languageName = "DE"
       languageCode = "de"
-      contentDir = "content.de"
       weight = 4
       [languages.de.params]
          description = "Gaspar Santos Violinist, persönliche Website und Abendkasse"
@@ -193,7 +189,6 @@ page = "/:slug/"
    [languages.es]
       languageName = "ES"
       languageCode = "es"
-      contentDir = "content.es"
       weight = 5
       [languages.es.params]
          description = "Gaspar Santos Violinista, web personal y taquilla"
