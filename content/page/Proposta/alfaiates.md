@@ -6,6 +6,7 @@ date: 2022-04-026T08:00:00+01:00
 authors: [gasparsantos]
 slug: /proposta/alfaiates
 noindex: true
+sitemap_exclude = true
 #menu: 
 #    - main
 #    - sidebar
