@@ -6,7 +6,7 @@ date: 2023-03-086T08:00:00+01:00
 authors: [gasparsantos]
 slug: /proposta/saofrancisco
 noindex: true
-sitemap_exclude = true
+sitemap_exclude: true
 #menu: 
 #    - main
 #    - sidebar
