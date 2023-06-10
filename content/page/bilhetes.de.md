@@ -3,6 +3,7 @@ title: "Billette"
 #linktitle:
 description: Konzert donnerstags um 17:00
 date: 2022-12-01T00:00:00+01:00
+type: event
 #authors: [gasparsantos]
 slug: billette
 menu: 

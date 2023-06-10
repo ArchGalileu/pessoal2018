@@ -3,6 +3,7 @@ title: "Entradas"
 #linktitle:
 description: Concierto los jueves a las 17:00
 date: 2022-12-01T00:00:00+01:00
+type: event
 #authors: [gasparsantos]
 slug: entradas
 menu: 
