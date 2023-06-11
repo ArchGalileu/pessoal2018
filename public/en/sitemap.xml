@@ -2,130 +2,120 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
   <url>
-    <loc>https://www.gasparsantos.eu/</loc>
+    <loc>https://www.gasparsantos.eu/en/</loc>
     <lastmod>2017-01-01T08:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/discography/</loc>
+    <loc>https://www.gasparsantos.eu/en/discography/</loc>
     <lastmod>2020-03-20T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/discografia/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/discography/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/discografia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/discography/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/discographie/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/diskographie/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/discografia/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/discografia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/discografia/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/my-violin/</loc>
+    <loc>https://www.gasparsantos.eu/en/my-violin/</loc>
     <lastmod>2017-12-01T04:52:03Z</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/o-meu-violino/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/my-violin/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/o-meu-violino/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/my-violin/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/mon-violon/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/meine-geige/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/mi-viol%C3%ADn/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/o-meu-violino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/o-meu-violino/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/tickets/</loc>
+    <loc>https://www.gasparsantos.eu/en/tickets/</loc>
     <lastmod>2022-12-01T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/bilhetes/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/tickets/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/bilhetes/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/tickets/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/billets/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/billette/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/entradas/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/bilhetes/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/bilhetes/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/contact/</loc>
+    <loc>https://www.gasparsantos.eu/en/contact/</loc>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/contato/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/contact/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/contato/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/contact/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/contact/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/kontakt/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/contacto/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/contato/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/contato/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/page/</loc>
+    <loc>https://www.gasparsantos.eu/en/page/</loc>
     <lastmod>2022-12-01T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/page/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/page/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/page/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/page/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/page/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/page/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/page/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/page/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/page/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/authors/</loc>
+    <loc>https://www.gasparsantos.eu/en/authors/</loc>
     <lastmod>2020-03-20T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/authors/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/authors/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/authors/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/authors/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/authors/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/authors/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/authors/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/authors/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/authors/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/authors/gasparsantos/</loc>
+    <loc>https://www.gasparsantos.eu/en/authors/gasparsantos/</loc>
     <lastmod>2020-03-20T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/authors/gasparsantos/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/authors/gasparsantos/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/authors/gasparsantos/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/authors/gasparsantos/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/authors/gasparsantos/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/authors/gasparsantos/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/login/</loc>
+    <loc>https://www.gasparsantos.eu/en/categories/</loc>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/login/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/login/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/login/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/login/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/login/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/login/" />
-  </url>  
-  <url>
-    <loc>https://www.gasparsantos.eu/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/categories/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/categories/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/categories/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/categories/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/categories/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/categories/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/categories/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/categories/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/categories/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/series/</loc>
+    <loc>https://www.gasparsantos.eu/en/series/</loc>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/series/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/series/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/series/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/series/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/series/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/series/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/series/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/series/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/series/" />
   </url>  
   <url>
-    <loc>https://www.gasparsantos.eu/tags/</loc>
+    <loc>https://www.gasparsantos.eu/en/tags/</loc>
     <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/pt/tags/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/tags/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.gasparsantos.eu/tags/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gasparsantos.eu/en/tags/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.gasparsantos.eu/fr/tags/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://www.gasparsantos.eu/de/tags/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.gasparsantos.eu/es/tags/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/pt/tags/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.gasparsantos.eu/tags/" />
   </url>
 </urlset>
