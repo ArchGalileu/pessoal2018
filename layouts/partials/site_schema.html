@@ -4,9 +4,9 @@
     "@context": "http://schema.org",
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
+    "url": "{{ .Permalink }}",
     "description": "{{ .Site.Params.description }}",
-    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
+    "thumbnailUrl": "{{ .Permalink }}images/gaspar.png",
     "license": "{{ .Site.Params.Copyright }}"
 }
 </script>
@@ -49,8 +49,7 @@
           "@type": "Person",
           "image": "/images/gaspar.png",
           "name": "Gaspar Santos",
-          "sameAs": "{{ .Site.BaseURL }}"
-        }
+          "sameAs": "{{ "/" | absLangURL }}"
       ],
       "workPerformed": [
         {
