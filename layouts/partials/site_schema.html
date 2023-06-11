@@ -4,7 +4,7 @@
     "@context": "http://schema.org",
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
-    "url": "{{ .Permalink }}",
+    "url": "{{ "/" | absLangURL }}",
     "description": "{{ .Site.Params.description }}",
     "thumbnailUrl": "{{ .Permalink }}images/gaspar.png",
     "license": "{{ .Site.Params.Copyright }}"
