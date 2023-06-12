@@ -1,7 +1,8 @@
 ---
-title: "Entradas"
-#linktitle:
+title: "Entradas - Sonatas y Partitas para violín solo de J. S. Bach (BWV 1001 - 1002)"
+linktitle: Entradas
 description: Concierto los jueves a las 17:00
+summary: Sonatas y Partitas de J. S. Bach - parte I (BWV 1001 - 1002), Gaspar Santos, violín, en Igreja da Misericórdia do Porto, MMipo
 date: 2022-12-01T00:00:00+01:00
 type: event
 #authors: [gasparsantos]
