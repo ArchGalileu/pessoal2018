@@ -1,8 +1,8 @@
 ---
 title: "Tickets - Sonatas and Partitas for Solo Violin by J. S. Bach (BWV 1001 - 1002)"
 linktitle: Tickets
-description: Concerts thursdays at 17:00
-summary: Sonatas and Partitas from J. S. Bach - part I (BWV 1001 - 1002), Gaspar Santos, violin, at Igreja da Misericórdia do Porto, MMipo
+description: Concerts thursdays at 17:00 at Igreja da Misericórdia do Porto, MMipo
+summary: Sonatas and Partitas for Solo Violin by J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violin, at Igreja da Misericórdia do Porto, MMipo
 date: 2022-12-01T00:00:00+01:00
 type: event
 #authors: [gasparsantos]
