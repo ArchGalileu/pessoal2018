@@ -23,9 +23,9 @@
           "address": "Rua das Flores 15, Porto, PORTUGAL",
           "url": "https://www.mmipo.pt" 
       },
-      "name": "Sonatas and Partitas for Solo Violin - part I", 
+      "name": "{{ .Params.title }}", 
       "description": "{{ .Params.description }}",
-      "startDate": "2022-12-01",
+      "image": {{ "/" | absLangURL }}images/gaspar.png",
       "duration": "PT50M",
       "doorTime" : "16:30:00",
       "inLanguage": "{{ .Site.LanguageCode }}",
@@ -41,10 +41,29 @@
       },
       "offers": {
         "@type": "Offer",
-          "url": "{{ .Permalink }}",
-        "price": "15",
+        "url": "{{ .Permalink }}",
+        "availability": "https://schema.org/InStock",
+        "price": "15.00",
         "priceCurrency": "EUR"
       },
+      "organizer": [
+        {
+          "@type": "Organization",
+          "name": "Gaspar Santos Violinista, Unipessoal, Lda.",
+          "url": "{{ "/" | absLangURL }}"
+        },
+        {
+          "@type": "Organization",
+          "name": "MMipo - Museu da Misericórdia do Porto",
+          "url": "https://www.mmipo.pt"
+        },
+        {
+          "@type": "Person",
+          "image": "{{ "/" | absLangURL }}images/gaspar.png",
+          "name": "Gaspar Santos",
+          "sameAs": "{{ "/" | absLangURL }}"
+        }    
+      ]
       "performer": [
         {
           "@type": "Person",

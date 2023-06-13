@@ -1,7 +1,7 @@
 ---
-title: "Billette - Sonaten und Partiten für Violine solo von J. S. Bach (BWV 1001 - 1002)"
+title: "Sonaten und Partiten für Violine solo von J. S. Bach (BWV 1001 - 1002)"
 linktitle: Billette
-description: Konzert donnerstags um 17:00 in der Igreja da Misericórdia do Porto, MMipo
+description: Konzert donnerstags um 17:00 in der Igreja da Misericórdia do Porto, MMipo, Porto, Portugal
 summary: Sonaten und Partiten für Violine solo von J. S. Bach (BWV 1001 - 1002), Gaspar Santos, Violine, in der Igreja da Misericórdia do Porto, MMipo
 date: 2022-12-01T00:00:00+01:00
 type: event
