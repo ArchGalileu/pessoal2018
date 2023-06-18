@@ -29,7 +29,7 @@ body, button, input, select, textarea {
 .title, h1, h2, h3, h4, h5, h6 {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.3em;
-    /* font-weight: 300; */
+    font-weight: 300;
 }
 
 .entry-cover figcaption {
