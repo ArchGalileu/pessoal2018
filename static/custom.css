@@ -3,6 +3,14 @@
     display: none;
 }
 */
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('/fonts/EBGaramond12-Regular.otf') format('opentype'),
+       url('/fonts/eb-garamond-regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .icon {
     width: 1em;
     height: 1em;
@@ -13,12 +21,12 @@
 }
 
 body, button, input, select, textarea {
-    font-family: Cormorant Garamond, sans-serif;
+    font-family: EB Garamond, sans-serif;
     font-size: 1.2em;
 }
 
 .title, h1, h2, h3, h4, h5, h6 {
-    font-family: Cormorant Garamond, sans-serif;
+    font-family: EB Garamond, sans-serif;
     font-size: 1.2em;
 }
 
