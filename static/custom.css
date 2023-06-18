@@ -1,14 +1,16 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+</style>
+
 /* Custom CSS */
 /* .hidden p {
     display: none;
 }
 */
 @font-face {
-  font-family: 'EB Garamond';
-  src: url('/fonts/EBGaramond12-Regular.otf') format('opentype'),
-       url('/fonts/eb-garamond-regular-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+    font-family: Cormorant Garamond, serif;
+    font-weight: 300;
+    font-style: normal;
 }
 
 .icon {
@@ -21,13 +23,17 @@
 }
 
 body, button, input, select, textarea {
-    font-family: EB Garamond, sans-serif;
+    font-family: Cormorant Garamond, serif;
     font-size: 1.2em;
+    font-weight: 300;
+    font-style: regular;
 }
 
 .title, h1, h2, h3, h4, h5, h6 {
-    font-family: EB Garamond, sans-serif;
+    font-family: Cormorant Garamond, serif;
     font-size: 1.2em;
+    font-weight: 300;
+    font-style: regular;
 }
 
 .entry-cover figcaption {
