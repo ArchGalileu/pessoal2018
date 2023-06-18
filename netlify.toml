@@ -20,12 +20,6 @@ command = "hugo --gc --minify"
 [functions]
   directory = "functions"
 
-[[plugins]]
-     package = "netlify-plugin-images-responsiver"
-
-[plugins.inputs]
-     source_dir = "public"
-
 [[redirects]]
 from = "/*"
 to = "/404.html"
