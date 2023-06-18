@@ -6,9 +6,9 @@
 [[plugins]]
   package = "netlify-plugin-cloudinary"
 
-[plugins.inputs]
-  cloudName = "dwwzofdnj"
-  loadingStrategy = "eager"
+  [plugins.inputs]
+    cloudName = "dwwzofdnj"
+    loadingStrategy = "eager"
 
 [build]
 publish = "public"
