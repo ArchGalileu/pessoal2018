@@ -7,7 +7,7 @@
   package = "netlify-plugin-cloudinary"
 
   [plugins.inputs]
-    cloudName = "dwwzofdnj"
+    cloudName = "gawzkqk2d35eo9"
     loadingStrategy = "eager"
 
 [build]
