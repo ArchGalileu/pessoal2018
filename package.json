@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ArchGalileu/pessoal2018#readme",
   "dependencies": {
     "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "netlify-plugin-cloudinary": "^1.2.0"
   }
 }
