@@ -41,7 +41,7 @@ title404 = 'Que procura?!'
 [params.assets]
 #favicon = "favicon.ico"
 favicon = "images/favicon.png"
-customCSS = ["custom.css"]
+customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
