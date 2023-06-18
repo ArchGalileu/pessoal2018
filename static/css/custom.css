@@ -44,3 +44,12 @@ body, button, input, select, textarea {
 	margin: .5em 0 0;
 	font-size: 0.9em;
 }
+.pretix-widget .pretix-widget-event-calendar .pretix-widget-event-calendar-table {
+	width: 100%;
+	font-size: 0.8em;
+}
+.pretix-widget .pretix-widget-event-calendar {
+	padding-top: 10px;
+	word-break: break-word;
+	font-size: 0.9em;
+}
