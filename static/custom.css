@@ -24,16 +24,12 @@
 
 body, button, input, select, textarea {
     font-family: Cormorant Garamond, serif;
-    font-size: 1.2em;
-    font-weight: 300;
-    font-style: regular;
+    font-size: 1.1em;
 }
 
 .title, h1, h2, h3, h4, h5, h6 {
     font-family: Cormorant Garamond, serif;
-    font-size: 1.2em;
-    font-weight: 300;
-    font-style: regular;
+    font-size: 1.1em;
 }
 
 .entry-cover figcaption {
