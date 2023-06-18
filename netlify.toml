@@ -2,6 +2,14 @@
 #  HUGO_VERSION = "v0.83.1"
   HUGO_VERSION = "v0.112.3"
   HUGO_ENV = "production"
+
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+[plugins.inputs]
+  cloudName = "dwwzofdnj"
+  loadingStrategy = "eager"
+
 [build]
 publish = "public"
 command = "hugo --gc --minify" 
