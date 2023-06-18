@@ -22,13 +22,13 @@
 
 body, button, input, select, textarea {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 300;
 }
 
 .title, h1, h2, h3, h4, h5, h6 {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 300;
 }
 
@@ -36,4 +36,7 @@ body, button, input, select, textarea {
 	text-align: right;
 	margin: .25em auto 0;
 	padding: 0;
+}
+.list .item .meta span {
+	font-size: 0.775em;
 }
