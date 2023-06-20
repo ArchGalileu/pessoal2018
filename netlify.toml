@@ -14,7 +14,7 @@
 [build]
 publish = "public"
 #command = "hugo --gc --minify"
-command = "hugo --gc --minify && brotli public/**/*.{css,js}"
+command = "npm install && hugo --gc --minify && brotli public/**/*.{css,js}"
 #[build.processing]
 #    skip_processing = true
 [[redirects]]
