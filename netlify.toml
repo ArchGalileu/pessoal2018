@@ -11,9 +11,6 @@
     cloudName = "gawzkqk2d35eo9"
     loadingStrategy = "eager"
 
-[build]
-  command = "npm run build"
-  publish = "dist"
 
 [[plugins]]
   package = "netlify-plugin-brotli"
