@@ -12,6 +12,14 @@
     loadingStrategy = "eager"
 
 [build]
+  command = "npm run build"
+  publish = "dist"
+
+[[plugins]]
+  package = "netlify-plugin-brotli"
+
+
+[build]
 publish = "public"
 #command = "hugo --gc --minify"
 command = "npm install && hugo --gc --minify && brotli public/**/*.{css,js}"
