@@ -4,6 +4,16 @@
   HUGO_ENV = "production"
 
 [[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[plugins]]
+  package = "netlify-plugin-gzip"
+
+  [plugins.inputs]
+    compression-level = 9
+    include = "public/**/*.{html,css,js,json,xml,svg,eot,ttf,woff,woff2}"
+
+[[plugins]]
   package = "netlify-plugin-cloudinary"
 
   [plugins.inputs]
