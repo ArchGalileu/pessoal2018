@@ -3,15 +3,39 @@
   HUGO_VERSION = "v0.112.3"
   HUGO_ENV = "production"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+[[redirects]]
+  from = "/*"
+  to = "/{path}.html"
+  status = 200
+  force = true
+  headers = {Content-Type = "text/html; charset=utf-8", "Cache-Control" = "public, max-age=0, must-revalidate"}
 
-[[plugins]]
-  package = "netlify-plugin-gzip"
+[[redirects]]
+  from = "/*.css"
+  to = "/{path}.css"
+  status = 200
+  force = true
+  headers = {"Content-Type"="text/css", "Cache-Control"="public, max-age=31536000, immutable"}
 
-  [plugins.inputs]
-    compression-level = 9
-    include = "public/**/*.{html,css,js,json,xml,svg,eot,ttf,woff,woff2}"
+[[redirects]]
+  from = "/*.js"
+  to = "/{path}.js"
+  status = 200
+  force = true
+  headers = {"Content-Type"="application/javascript", "Cache-Control"="public, max-age=31536000, immutable"}
+
+[[redirects]]
+  from = "/*.svg"
+  to = "/{path}.svg"
+  status = 200
+  force = true
+  headers = {"Content-Type"="image/svg+xml", "Cache-Control"="public, max-age=31536000, immutable"}
+
+[[headers]]
+  for = "/**/*.@(html|css|js|svg)"
+  [headers.values]
+    Content-Encoding = "gzip"
+    Cache-Control = "public, max-age=31536000, immutable"
 
 [[plugins]]
   package = "netlify-plugin-cloudinary"
