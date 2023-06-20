@@ -29,6 +29,7 @@ pygmentsCodefences = true
 
 enableEmoji = true
 
+enableGzip = true
 
 [author]
   name = 'Gaspar Santos'
