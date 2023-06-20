@@ -16,6 +16,7 @@ command = "hugo --gc --minify && cp _headers public/"
 #command = "hugo --minify && brotli public/**/*.{css,js}"
 #[build.processing]
 #    skip_processing = true
+
 [[redirects]]
   from = "/proposta/*"
   status = 200
@@ -55,15 +56,3 @@ from = "/es/*"
 to = "/de/404.html"
 status = 404
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    X-Content-Type-Options = "nosniff"
-    X-XSS-Protection = "1; mode=block"
-    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
-[[headers]]
-  for = "/sw.js"
-  [headers.values]
-    Cache-Control = "public, max-age=0, must-revalidate"

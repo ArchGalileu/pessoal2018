@@ -1,2 +1,8 @@
-   /public/*.js.br Content-Encoding: br
-   /public/*.css.br Content-Encoding: br
+/*.js
+Content-Encoding: gzip
+
+/*.css
+Content-Encoding: gzip
+
+/*.html
+Content-Encoding: gzip
