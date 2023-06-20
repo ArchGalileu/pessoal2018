@@ -3,15 +3,6 @@
   HUGO_VERSION = "v0.112.3"
   HUGO_ENV = "production"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
-
-[[plugins]]
-  package = "netlify-plugin-gzip"
-
-  [plugins.inputs]
-    compression-level = 9
-    include = "public/**/*.{html,css,js,json,xml,svg,eot,ttf,woff,woff2}"
 
 [[plugins]]
   package = "netlify-plugin-cloudinary"
@@ -22,7 +13,8 @@
 
 [build]
 publish = "public"
-command = "hugo --gc --minify" 
+#command = "hugo --gc --minify"
+command = "hugo --gc --minify && brotli public/**/*.{css,js}"
 #[build.processing]
 #    skip_processing = true
 [[redirects]]
