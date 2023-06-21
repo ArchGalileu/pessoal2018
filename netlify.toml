@@ -16,6 +16,7 @@ command = "hugo --gc --minify && cp _headers public/"
 #command = "hugo --minify && brotli public/**/*.{css,js}"
 #[build.processing]
 #    skip_processing = true
+environment = { BROTLI_COMPRESSION = "9" }
 
 [[redirects]]
   from = "/proposta/*"
@@ -55,4 +56,11 @@ status = 404
 from = "/es/*"
 to = "/de/404.html"
 status = 404
+
+[[redirects]]
+from = "/old/*"
+to = "/new/"
+status = 200
+
+# Brotli BY ME settings
 
