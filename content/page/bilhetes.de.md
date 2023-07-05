@@ -1,21 +1,22 @@
 ---
 title: "Sonaten und Partiten für Violine solo von J. S. Bach (BWV 1001 - 1002)"
 linktitle: Billette
-description: Konzert donnerstags um 17:00 in der Igreja da Misericórdia do Porto, MMipo, Porto, Portugal
-summary: Sonaten und Partiten für Violine solo von J. S. Bach (BWV 1001 - 1002), Gaspar Santos, Violine, in der Igreja da Misericórdia do Porto, MMipo
+description: Konzert donnerstags um 17:30 Uhr und sonntags um 11:30 Uhr in der Kirche São Nicolau, Porto, Portugal
+summary: Sonaten und Partiten für Solovioline von J. S. Bach (BWV 1001 - 1002), Gaspar Santos, Violine, in der Kirche São Nicolau, Porto
 date: 2022-12-01T00:00:00+01:00
 type: event
 #authors: [gasparsantos]
 slug: billette
-menu: 
+menu:
   - sidebar
 weight: 6
 draft: false
 showReadingTime: false
+image: /images/gaspar-wide.png
 ---
 ![](/images/viralagenda.png)
 
-Sie können Tickets online im Kalender unten oder persönlich an der Kasse von [MMipo - Museu da Misericórdia do Porto] (https://www.mmipo.pt/) kaufen.
+Sie können Tickets jederzeit online im Kalender unten oder persönlich kaufen, erhältlich 3 Stunden vorher, neben dem Eingang von [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3 %A3o_Nicolau_ (Porto) „Wikipedia-Seite“)
 
 Wir akzeptieren neben Karten und Überweisungen auch Online-Zahlungen in ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
@@ -35,17 +36,19 @@ Wir akzeptieren neben Karten und Überweisungen auch Online-Zahlungen in ![Bitco
 
 ---
 
-*Programm*  
+*Programm*
 
-**Johann Sebastian Bach**   
-*Sonate g-Moll für Violine solo, BWV 1001*  
-*Partita h-Moll für Violine solo, BWV 1002*  
+**Johann Sebastian Bach**
+*Sonate g-Moll für Violine solo, BWV 1001*
+*Partita h-Moll für Violine solo, BWV 1002*
 
-**[Gaspar Santos](/de/)**, *Violine*  
+**[Gaspar Santos](/de/)**, *Violine*
 
-*Dauer: ca. 50 Minuten*  
+*Dauer: ca. 50 Minuten*
 
-**Igreja da Misericórdia, Porto**  
-*Rua das Flores 15, 4050-542 Porto*  
-*Koordinaten: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
-*Eintrag von [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*
+*[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
+*Rua do Infante D. Henrique, 93, 4050-298 Porto*
+*Koordinaten:* [41.14066 -8.61527
+](https://goo.gl/maps/DJJ3sznjKx6BajTA7 „Google Maps“)*Eingang durch den Haupteingang von [Igreja de São Nicolau, Porto](https://www.mmipo.pt/)*
+
+[Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)

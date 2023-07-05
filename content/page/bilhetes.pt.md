@@ -1,18 +1,18 @@
 ---
 title: "Sonatas e Partitas para violino solo de J. S. Bach (BWV 1001 - 1002)"
 linktitle: Bilhetes
-description: Concerto às Quintas-feiras pelas 17:00 na Igreja da Misericórdia do Porto, MMipo, Porto, Portugal
-summary: Sonatas e Partitas para violino solo de J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violino, na Igreja da Misericórdia do Porto, MMipo
+description: Concerto às Quintas-feiras pelas 17:30 e Domingos pelas 11:30 na Igreja de São Nicolau, Porto, Portugal
+summary: Sonatas e Partitas para violino solo de J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violino, na Igreja de São Nicolau, Porto
 date: 2022-12-01T00:00:00+01:00
 type: event
 #authors: [gasparsantos]
 slug: bilhetes
-menu: 
+menu:
   - sidebar
 weight: 6
 draft: false
 showReadingTime: false
-image: /images/viralagenda.png
+image: /images/gaspar-wide.png
 #cover:
 #  image: /images/square post.png
 #  alternate: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I) a
@@ -23,7 +23,7 @@ image: /images/viralagenda.png
 
 ![](/images/viralagenda.png)
 
-Pode adquirir bilhetes online no calendário abaixo ou de forma presencial na bilheteira do [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
+Pode adquirir bilhetes online no calendário abaixo em qualquer momento ou de forma presencial, disponível 3 horas antes, junto à entrada da [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto) "Wikipedia page")
 
 Aceitamos, além de cartões e transferências, também em online pagamento em ![Bitcoin por Lightning Network](/images/bitcoinsmall.png)
 
@@ -45,15 +45,17 @@ Aceitamos, além de cartões e transferências, também em online pagamento em !
 
 *Programa*
 
-**Johann Sebastian Bach**  
-*Sonata em sol menor para Violino Solo, BWV 1001*  
-*Partita em si menor para Violino Solo, BWV 1002*  
+**Johann Sebastian Bach**
+*Sonata em sol menor para Violino Solo, BWV 1001*
+*Partita em si menor para Violino Solo, BWV 1002*
 
 **[Gaspar Santos](/)**, *violino*
 
 *duração: cerca 50 minutos*
 
-**Igreja da Misericórdia, Porto**  
-*Rua das Flores 15, 4050-542 Porto*  
-*Coordenadas: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
-*Entrada pelo [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*  
+**[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
+*Rua do Infante D. Henrique, 93, 4050-298 Porto*
+*Coordenadas:* [41.14066 -8.61527
+](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")*Entrada pela porta principal da [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
+
+[Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)

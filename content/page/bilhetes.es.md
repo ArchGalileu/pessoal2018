@@ -1,17 +1,18 @@
 ---
 title: "Sonatas y Partitas para violín solo de J. S. Bach (BWV 1001 - 1002)"
 linktitle: Entradas
-description: Concierto los jueves a las 17:00 en Igreja da Misericórdia do Porto, MMipo
-summary: Sonatas y Partitas para violín solo de J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violín, en Igreja da Misericórdia do Porto, MMipo
+description: Concierto los jueves a las 17:30 y los domingos a las 11:30 en la Iglesia de São Nicolau, Oporto, Portugal
+summary: Sonatas e Partitas para violino solo de J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violino, na Igreja de São Nicolau, Porto
 date: 2022-12-01T00:00:00+01:00
 type: event
 #authors: [gasparsantos]
 slug: entradas
-menu: 
+menu:
   - sidebar
 weight: 6
 draft: false
 showReadingTime: false
+image: /images/gaspar-wide.png
 #image: /images/square post.png
 #cover:
 #  image: /images/square post.png
@@ -23,7 +24,7 @@ showReadingTime: false
 
 ![](/images/viralagenda.png)
 
-Puede comprar boletos en línea en el calendario a continuación o en persona en la taquilla de [MMipo - Museu da Misericordia do Porto] (https://www.mmipo.pt/)
+Puede comprar boletos en línea en el calendario a continuación en cualquier momento o en persona, disponibles 3 horas antes, junto a la entrada de [Igreja de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3 %A3o_Nicolau_ (Oporto) "Página de Wikipedia")
 
 Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
@@ -45,15 +46,17 @@ Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by
 
 *Programa*
 
-**Johann Sebastian Bach**  
-*Sonata en sol menor para violín solo, BWV 1001*  
-*Partita en si menor para violín solo, BWV 1002*  
+**Johann Sebastian Bach**
+*Sonata en sol menor para violín solo, BWV 1001*
+*Partita en si menor para violín solo, BWV 1002*
 
 **[Gaspar Santos](/es/)**, *violín*
 
 *duración: unos 50 minutos*
 
-**Igreja da Misericórdia, Porto**  
-*Rua das Flores 15, 4050-542 Porto*  
-*Coordenadas: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
-*Entrada por [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*  
+**[Igreja de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
+*Rua do Infante D. Henrique, 93, 4050-298 Oporto*
+*Coordenadas:* [41.14066 -8.61527
+](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")*Entrada por la puerta principal de [Igreja de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3% A3o_Nicolau_ (Puerto))*
+
+[Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)

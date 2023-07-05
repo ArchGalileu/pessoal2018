@@ -1,23 +1,24 @@
 ---
 title: "Sonatas and Partitas for Solo Violin by J. S. Bach (BWV 1001 - 1002)"
 linktitle: Tickets
-description: Concerts thursdays at 17:00 at Igreja da Misericórdia do Porto, MMipo, Porto, Portugal
-summary: Sonatas and Partitas for Solo Violin by J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violin, at Igreja da Misericórdia do Porto, MMipo
+description: Concert on Thursdays at 5:30 pm and Sundays at 11:30 am at the Church of São Nicolau, Porto, Portugal
+summary: Sonatas and Partitas for Solo Violin by J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violin, in the Church of São Nicolau, Porto
 date: 2022-12-01T00:00:00+01:00
 type: event
 #authors: [gasparsantos]
 slug: tickets
 aliases:
   - /en/bilhetes
-menu: 
+menu:
   - sidebar
 weight: 6
 draft: false
 showReadingTime: false
+image: /images/gaspar-wide.png
 ---
 ![](/images/viralagenda.png)
 
-You can purchase tickets online on the calendar below or in person at the ticket office of [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)
+You can purchase tickets online on the calendar below at any time or in person, available 3 hours before, next to the entrance of [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_ (Porto) "Wikipedia page")
 
 We accept, in addition to cards and transfers, online payments in ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
@@ -39,15 +40,17 @@ We accept, in addition to cards and transfers, online payments in ![Bitcoin by L
 
 *Program*
 
-**Johann Sebastian Bach**  
-*Sonata in g minor for solo violin, BWV 1001*  
-*Partita in b minor for solo violin, BWV 1002*  
+**Johann Sebastian Bach**
+*Sonata in g minor for solo violin, BWV 1001*
+*Partita in b minor for solo violin, BWV 1002*
 
 **[Gaspar Santos](/en/)**, *violin*
 
 *duration: about 50 minutes*
 
-**Igreja da Misericórdia, Porto**  
-*Rua das Flores 15, 4050-542 Porto*  
-*Coordinates: [41.143479, -8.614564](https://goo.gl/maps/teqWd1yQMZQuCEBG7)*  
-*Entry by [MMipo - Museu da Misericórdia do Porto](https://www.mmipo.pt/)*  
+**[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
+*Rua do Infante D. Henrique, 93, 4050-298 Porto*
+*Coordinates:* [41.14066 -8.61527
+](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")*Entrance through the main door of [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_ (Harbor))*
+
+[Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)
