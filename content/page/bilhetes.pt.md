@@ -53,7 +53,7 @@ Aceitamos, além de cartões e transferências, também em online pagamento em !
 
 *duração: cerca 50 minutos*
 
-**[Igreja de São Nicolau, Porto  ](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
+**[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
 *Rua do Infante D. Henrique, 93, 4050-298 Porto*
 *Coordenadas:* [41.14066 -8.61527
 ](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")*Entrada pela porta principal da [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
