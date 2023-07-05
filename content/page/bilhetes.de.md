@@ -47,9 +47,9 @@ Wir akzeptieren neben Karten und Überweisungen auch Online-Zahlungen in ![Bitco
 
 *Dauer: ca. 50 Minuten*
 
-*[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
-*Rua do Infante D. Henrique, 93, 4050-298 Porto*
-*Koordinaten:* [41.14066 -8.61527
-](https://goo.gl/maps/DJJ3sznjKx6BajTA7 „Google Maps“)*Eingang durch den Haupteingang von [Igreja de São Nicolau, Porto](https://www.mmipo.pt/)*
+*[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*  
+*Rua do Infante D. Henrique, 93, 4050-298 Porto*  
+*Koordinaten:* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 „Google Maps“)  
+*Eingang durch den Haupteingang von [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
 
 [Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)
