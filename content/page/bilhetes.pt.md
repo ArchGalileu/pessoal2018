@@ -23,7 +23,7 @@ image: /images/gaspar-wide.png
 
 ![Gaspar Santos](/images/gaspar-wide.png)
 
-Pode adquirir bilhetes online no calendário abaixo em qualquer momento ou de forma presencial, disponível 3 horas antes, junto à entrada da [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto) "Wikipedia page")
+Pode adquirir bilhetes online no calendário abaixo em qualquer momento ou de forma presencial, disponível 3 horas antes, junto à entrada da [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))
 
 Aceitamos, além de cartões e transferências, também em online pagamento em ![Bitcoin por Lightning Network](/images/bitcoinsmall.png)
 
