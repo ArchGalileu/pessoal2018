@@ -22,7 +22,7 @@ image: /images/gaspar-wide.png
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
 
-![](/images/viralagenda.png)
+![Gaspar Santos](/images/gaspar-wide.png)
 
 Puede comprar boletos en línea en el calendario a continuación en cualquier momento o en persona, disponibles 3 horas antes, junto a la entrada de [Igreja de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3 %A3o_Nicolau_ (Oporto) "Página de Wikipedia")
 

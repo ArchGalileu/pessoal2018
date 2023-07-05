@@ -21,7 +21,7 @@ image: /images/gaspar-wide.png
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
 
-![](/images/viralagenda.png)
+![Gaspar Santos](/images/gaspar-wide.png)
 
 Pode adquirir bilhetes online no calendário abaixo em qualquer momento ou de forma presencial, disponível 3 horas antes, junto à entrada da [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto) "Wikipedia page")
 

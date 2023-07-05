@@ -14,7 +14,8 @@ draft: false
 showReadingTime: false
 image: /images/gaspar-wide.png
 ---
-![](/images/viralagenda.png)
+![
+Gaspar Santos](/images/gaspar-wide.png)
 
 Sie können Tickets jederzeit online im Kalender unten oder persönlich kaufen, erhältlich 3 Stunden vorher, neben dem Eingang von [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3 %A3o_Nicolau_ (Porto) „Wikipedia-Seite“)
 
