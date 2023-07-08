@@ -30,7 +30,8 @@
       "duration": "PT50M",
       "doorTime": "2023-06-15T16:30:00+01:00",
       "inLanguage": "{{ .Site.LanguageCode }}",
-      "eventSchedule": {
+      "eventSchedule": [
+      {
          "@type": "Schedule",
          "startDate": "2023-06-15",
          "endDate": "2023-12-31",
@@ -40,6 +41,17 @@
          "endTime": "18:20:00",
          "scheduleTimezone": "Europe/Lisbon"
       },
+      {
+         "@type": "Schedule",
+         "startDate": "2023-06-15",
+         "endDate": "2023-12-31",
+         "repeatFrequency": "P1W",
+         "byDay": "https://schema.org/Sunday",
+         "startTime": "11:30:00",
+         "endTime": "12:20:00",
+         "scheduleTimezone": "Europe/Lisbon"
+      }
+      ],
       "offers": {
         "@type": "Offer",
         "url": "{{ .Permalink }}",
