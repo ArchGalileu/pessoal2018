@@ -24,7 +24,7 @@ image: /images/gaspar-wide.png
 
 ![Gaspar Santos](/images/gaspar-wide.png)
 
-Puede comprar boletos en línea en el calendario a continuación en cualquier momento o en persona, disponibles 3 horas antes, junto a la entrada de [Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))
+Puede comprar boletos en línea en el calendario a continuación en cualquier momento o en persona, disponibles 2 horas antes, junto a la entrada de [Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))
 
 Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
@@ -54,9 +54,9 @@ Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by
 
 *duración: unos 50 minutos*
 
-**[Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**  
-*Rua do Infante D. Henrique, 93, 4050-298 Oporto*  
-*Coordenadas:* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")  
-*Entrada por la puerta principal de [Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*  
+**[Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
+*Rua do Infante D. Henrique, 93, 4050-298 Oporto*
+*Coordenadas:* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")
+*Entrada por la puerta principal de [Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
 
 [Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)
