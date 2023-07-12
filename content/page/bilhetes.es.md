@@ -46,17 +46,17 @@ Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by
 
 *Programa*
 
-**Johann Sebastian Bach**
-*Sonata en sol menor para violín solo, BWV 1001*
+**Johann Sebastian Bach**\
+*Sonata en sol menor para violín solo, BWV 1001*\
 *Partita en si menor para violín solo, BWV 1002*
 
 **[Gaspar Santos](/es/)**, *violín*
 
 *duración: unos 50 minutos*
 
-**[Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
-*Rua do Infante D. Henrique, 93, 4050-298 Oporto*
-*Coordenadas:* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")
+**[Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**\
+*Rua do Infante D. Henrique, 93, 4050-298 Oporto*\
+*Coordenadas:* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")\
 *Entrada por la puerta principal de [Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
 
 [Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)

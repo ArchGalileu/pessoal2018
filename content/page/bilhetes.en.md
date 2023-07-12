@@ -41,17 +41,17 @@ We accept, in addition to cards and transfers, online payments in ![Bitcoin by L
 
 *Program*
 
-**Johann Sebastian Bach**
-*Sonata in g minor for solo violin, BWV 1001*
+**Johann Sebastian Bach**\
+*Sonata in g minor for solo violin, BWV 1001*\
 *Partita in b minor for solo violin, BWV 1002*
 
 **[Gaspar Santos](/en/)**, *violin*
 
 *duration: about 50 minutes*
 
-**[Igreja de São Nicolau, Porto   ](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
-*Rua do Infante D. Henrique, 93, 4050-298 Porto*
-*Coordinates:* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")
+**[Igreja de São Nicolau, Porto   ](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**\
+*Rua do Infante D. Henrique, 93, 4050-298 Porto*\
+*Coordinates:* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")\
 *Entrance through the main door of [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
 
 [Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)

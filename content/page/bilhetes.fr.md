@@ -39,17 +39,17 @@ Nous acceptons, en plus des cartes et virements, les paiements en ligne en ![Bit
 
 *Programme*
 
-**Johann Sebastian Bach**
-*Sonate en sol mineur pour violon seul, BWV 1001*
+**Johann Sebastian Bach**\
+*Sonate en sol mineur pour violon seul, BWV 1001*\
 *Partita en si mineur pour violon seul, BWV 1002*
 
 **[Gaspar Santos](/fr/)**, *violon*
 
 *Durée: environ 50 minutes*
 
-**[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**
-*Rua do Infante D. Henrique, 93, 4050-298 Porto*
-*Coordonnées :* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")
+**[Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))**\
+*Rua do Infante D. Henrique, 93, 4050-298 Porto*\
+*Coordonnées :* [41.14066 -8.61527](https://goo.gl/maps/DJJ3sznjKx6BajTA7 "Google Maps")\
 *Entrée par la porte principale de [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))*
 
 [Igreja de São Nicolau, Porto]: https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto)
