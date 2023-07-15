@@ -1,7 +1,7 @@
 ---
 title: "Sonates et Partitas pour violon seul de J. S. Bach (BWV 1001 - 1002)"
 linktitle: Billets
-description: Concert les jeudis à 17h30 et les dimanches à 11h30 à l'église de São Nicolau, Porto, Portugal
+description: Concert les jeudis à 18h00 et les dimanches à 11h00 à l'église de São Nicolau, Porto, Portugal
 summary: Sonates et Partitas pour violon seul de J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violon, dans l'église de São Nicolau, Porto
 date: 2022-12-01T00:00:00+01:00
 type: event

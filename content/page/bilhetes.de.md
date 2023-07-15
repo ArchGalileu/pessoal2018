@@ -1,7 +1,7 @@
 ---
 title: "Sonaten und Partiten für Violine solo von J. S. Bach (BWV 1001 - 1002)"
 linktitle: Billette
-description: Konzert donnerstags um 17:30 Uhr und sonntags um 11:30 Uhr in der Kirche São Nicolau, Porto, Portugal
+description: Konzert donnerstags um 18:00 Uhr und sonntags um 11:00 Uhr in der Kirche São Nicolau, Porto, Portugal
 summary: Sonaten und Partiten für Solovioline von J. S. Bach (BWV 1001 - 1002), Gaspar Santos, Violine, in der Kirche São Nicolau, Porto
 date: 2022-12-01T00:00:00+01:00
 type: event
