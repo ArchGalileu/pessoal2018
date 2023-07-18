@@ -26,29 +26,29 @@
       "name": "{{ .Params.title }}", 
       "description": "{{ .Params.description }}",
       "image": "{{ "/" | absLangURL }}images/gaspar.png",
-      "startDate": "2023-06-15T17:00:00+01:00",
+      "startDate": "2023-07-20T18:00:00+01:00",
       "duration": "PT50M",
-      "doorTime": "2023-06-15T16:30:00+01:00",
+      "doorTime": "2023-07-20T17:30:00+01:00",
       "inLanguage": "{{ .Site.LanguageCode }}",
       "eventSchedule": [
       {
          "@type": "Schedule",
-         "startDate": "2023-06-15",
+         "startDate": "2023-07-20",
          "endDate": "2023-12-31",
          "repeatFrequency": "P1W",
          "byDay": "https://schema.org/Thursday",
-         "startTime": "17:30:00",
-         "endTime": "18:20:00",
+         "startTime": "18:00:00",
+         "endTime": "18:50:00",
          "scheduleTimezone": "Europe/Lisbon"
       },
       {
          "@type": "Schedule",
-         "startDate": "2023-06-15",
+         "startDate": "2023-07-23",
          "endDate": "2023-12-31",
          "repeatFrequency": "P1W",
          "byDay": "https://schema.org/Sunday",
-         "startTime": "11:30:00",
-         "endTime": "12:20:00",
+         "startTime": "11:00:00",
+         "endTime": "11:50:00",
          "scheduleTimezone": "Europe/Lisbon"
       }
       ],
@@ -64,11 +64,6 @@
           "@type": "Organization",
           "name": "Gaspar Santos Violinista, Unipessoal, Lda.",
           "url": "{{ "/" | absLangURL }}"
-        },
-        {
-          "@type": "Organization",
-          "name": "MMipo - Museu da Misericórdia do Porto",
-          "url": "https://www.mmipo.pt"
         },
         {
           "@type": "Person",
