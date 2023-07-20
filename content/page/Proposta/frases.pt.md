@@ -30,8 +30,8 @@ emoji: true
 ---
 
 está a decorrer um concerto, é necessário bilhete para entrar, obrigado\
-{{< audio mp3=/audio/fr01.mp3 >}} **fr** Un concert a lieu, un billet est nécessaire pour entrer, merci\
-{{< audio mp3=/audio/en01.mp3 >}} **en** A concert is taking place, a ticket is required to enter, thank you
+**fr** Un concert a lieu, un billet est nécessaire pour entrer, merci {{< audio mp3=/audio/fr01.mp3 >}}\
+**en** A concert is taking place, a ticket is required to enter, thank you {{< audio mp3=/audio/en01.mp3 >}}
 
 o bilhete custa quinze euros, aceitamos pagamento com cartões ou em numerário, obrigado\
 {{< audio mp3=/audio/fr02.mp3 >}} **fr** Le billet coûte quinze euros, nous acceptons les paiements par cartes ou en espèces, merci\
