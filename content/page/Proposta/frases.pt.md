@@ -31,16 +31,16 @@ emoji: true
 
 está a decorrer um concerto, é necessário bilhete para entrar, obrigado\
 [OUVIR](/audio/fr01.mp3) *fr* Un concert a lieu, un billet est nécessaire pour entrer, merci\
-[OUVIR](/audio/en01.mp3) *en* A concert is taking place, a ticket is required to enter, thank you\
+[OUVIR](/audio/en01.mp3) *en* A concert is taking place, a ticket is required to enter, thank you
 
 o bilhete custa quinze euros, aceitamos pagamento com cartões ou em numerário, obrigado\
 [OUVIR](/audio/fr02.mp3) *fr* Le billet coûte quinze euros, nous acceptons les paiements par cartes ou en espèces, merci\
-[OUVIR](/audio/en02.mp3) *en* The ticket costs fifteen euros, we accept payment with cards or in cash, thank you\
+[OUVIR](/audio/en02.mp3) *en* The ticket costs fifteen euros, we accept payment with cards or in cash, thank you
 
 Peço desculpa, a igreja reabre ao público após o fim do concerto, pelas dezanove horas. Obrigado\
 [OUVIR](/audio/fr03.mp3) *fr* Je m’excuse, l’église rouvre au public après la fin du concert à dix-neuf heures. Merci\
-[OUVIR](/audio/en03.mp3) *en* I apologize, the church reopens to the public after the end of the concert at nineteen o'clock. Thank you\
+[OUVIR](/audio/en03.mp3) *en* I apologize, the church reopens to the public after the end of the concert at nineteen o'clock. Thank you
 
 após começar o concerto apenas é possível a entrada entre as peças, obrigado\
 [OUVIR](/audio/fr04.mp3) *fr* Après avoir commencé le concert, il n’est possible d’entrer qu’entre les morceaux, merci\
-[OUVIR](/audio/en04.mp3) *en* After starting the concert it is only possible to enter between the pieces, thank you\
+[OUVIR](/audio/en04.mp3) *en* After starting the concert it is only possible to enter between the pieces, thank you
