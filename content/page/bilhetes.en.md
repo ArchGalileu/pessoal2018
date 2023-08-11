@@ -9,6 +9,7 @@ type: event
 slug: tickets
 aliases:
   - /en/bilhetes
+  - /en/tickets-hotels
 menu:
   - sidebar
 weight: 6
