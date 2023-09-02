@@ -27,7 +27,7 @@ Wir akzeptieren neben Karten und Überweisungen auch Online-Zahlungen in ![Bitco
 
 <pretix-widget event="https://pretix.eu/gfs/bach2022/"></pretix-widget>
 <noscript>
-   <div class="pretix-widget">
+   <div class="pretix-widget-compat">
         <div class="pretix-widget-info-message">
             JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/gfs/bach2022/">click here</a>.
         </div>

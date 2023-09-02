@@ -27,7 +27,7 @@ Nous acceptons, en plus des cartes et virements, les paiements en ligne en ![Bit
 
 <pretix-widget event="https://tickets.gasparsantos.eu/"></pretix-widget>
 <noscript>
-   <div class="pretix-widget">
+   <div class="pretix-widget-compat">
         <div class="pretix-widget-info-message">
             JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://tickets.gasparsantos.eu/">click here</a>.
         </div>
