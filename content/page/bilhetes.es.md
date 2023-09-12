@@ -1,7 +1,7 @@
 ---
 title: "Sonatas y Partitas para violín solo de J. S. Bach (BWV 1001 - 1002)"
 linktitle: Entradas
-description: Concierto los jueves a las 18:00 y los domingos a las 11:00 en la Iglesia de São Nicolau, Oporto, Portugal
+description: Concierto los jueves a las 18:00 y los domingos a las 11:30 en la Iglesia de São Nicolau, Oporto, Portugal
 summary: Sonatas y Partitas para violín solo de J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violín, en la Iglesia de São Nicolau, Oporto
 date: 2022-12-01T00:00:00+01:00
 type: event
