@@ -22,7 +22,8 @@ Sie können Tickets jederzeit online im Kalender unten oder persönlich kaufen, 
 Wir akzeptieren neben Karten und Überweisungen auch Online-Zahlungen in ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
-<link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css">
+<!-- <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css"> -->
+<link rel="preload" type="text/css" href="https://pretix.eu/gfs/bach2022/widget/v1.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 
 <pretix-widget event="https://pretix.eu/gfs/bach2022/"></pretix-widget>
