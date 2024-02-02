@@ -12,7 +12,7 @@
 
 [build]
 publish = "public"
-command = "hugo --gc --minify && cp _headers public/"
+command = "hugo --gc --minify && cp _headers public/ && cp _redirects public/"
 #command = "hugo --minify && brotli public/**/*.{css,js}"
 #[build.processing]
 #    skip_processing = true

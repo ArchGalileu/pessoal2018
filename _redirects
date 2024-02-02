@@ -1,5 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
-https://pessoal2018.netlify.com/* https://www.gasparsantos.eu/:splat 301! 
+#https://pessoal2018.netlify.com/* https://www.gasparsantos.eu/:splat 301! 
 # for enable brotli
 /*.br /:splat 200
-/.well-known/*  /well-known/:splat 200!
+/.well-known/*  /well-known/:splat 200
