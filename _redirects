@@ -2,3 +2,4 @@
 https://pessoal2018.netlify.com/* https://www.gasparsantos.eu/:splat 301! 
 # for enable brotli
 /*.br /:splat 200
+ /.well_known/* /well_known/:splat 200
