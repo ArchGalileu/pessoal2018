@@ -62,5 +62,7 @@ from = "/old/*"
 to = "/new/"
 status = 200
 
-# Brotli BY ME settings
-
+[[redirects]]
+  from = "/.well-known/*"
+  to = "/well-known/"
+  status = 200
