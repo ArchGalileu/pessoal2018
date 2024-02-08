@@ -6,11 +6,11 @@
 {{/*
   Umami server metrics on railway
 */}}
-<script async src="https://metrics.out.gasparsantos.eu/script.js" data-website-id="3d50f54a-d8f2-4716-bac4-63e2a7118c0e"></script>
+<script src="https://metrics.out.gasparsantos.eu/script.js" data-website-id="3d50f54a-d8f2-4716-bac4-63e2a7118c0e" defer></script>
 {{/*
   Netlify Identity Widget for protected pages
 */}}
-<!-- <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script> -->
+<!-- <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script> -->
 {{/*
   No index option on frontmatter
 */}}
@@ -30,14 +30,4 @@
 
     {{ partial "site_schema.html" . }}
 
-<!-- BY Me Google Tag -->
 
-<!-- Google tag (gtag.js) -->
-<script src="https://www.googletagmanager.com/gtag/js?id=AW-11044115128" async></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-11044115128');
-</script>
