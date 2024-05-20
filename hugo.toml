@@ -31,7 +31,7 @@ enableEmoji = true
 
 enableGzip = true
 
-[author]
+[params.author]
   name = 'Gaspar Santos'
   license = 'Gaspar Santos'
 
