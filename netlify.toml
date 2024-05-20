@@ -3,12 +3,12 @@
   HUGO_VERSION = "v0.126.1"
   HUGO_ENV = "production"
 
-# [[plugins]]
-#   package = "netlify-plugin-cloudinary"
+[[plugins]]
+   package = "netlify-plugin-cloudinary"
 
-#   [plugins.inputs]
-#     cloudName = "gawzkqk2d35eo9"
-#     loadingStrategy = "eager"
+   [plugins.inputs]
+     cloudName = "gawzkqk2d35eo9"
+     loadingStrategy = "eager"
 
 [build]
 publish = "public"
