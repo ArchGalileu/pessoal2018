@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gasparsantos on Gaspar Santos</title>
+    <link>http://localhost:1313/fr/authors/gasparsantos/</link>
+    <description>Recent content in Gasparsantos on Gaspar Santos</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/authors/gasparsantos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accueil</title>
+      <link>http://localhost:1313/fr/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/</guid>
+      <description>Né à Espinho en 1979. Il a commencé ses études musicales à l&amp;rsquo;âge de huit ans à l&amp;rsquo;Académie de musique de S. Félix da Marinha dans la classe de violon du professeur Odete Ramos.&#xA;À l&amp;rsquo;âge de onze ans, il a rejoint l&amp;rsquo;école professionnelle et artistique de Vale do Ave (ARTAVE), où il a terminé le cours de base d&amp;rsquo;instrumentiste à cordes, sous la direction du professeur David Lloyd. Pendant cette période de sa formation, il a fréquenté l&amp;rsquo;orchestre Artave avec lequel il a visité les principales villes du Brésil.</description>
+    </item>
+    <item>
+      <title>Discographie</title>
+      <link>http://localhost:1313/fr/discographie/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/fr/discographie/</guid>
+      <description>Spotify Tidal Amazon Music Deezer à écouter ici&amp;hellip; un peu&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Ing. Joaquim Domingos Capela</title>
+      <link>http://localhost:1313/fr/mon-violon/</link>
+      <pubDate>Fri, 01 Dec 2017 04:52:03 +0100</pubDate>
+      <guid>http://localhost:1313/fr/mon-violon/</guid>
+      <description>Un certain jour, j&amp;rsquo;ai demandé à Ing. Joaquim Domingos Capela pour écrire un court texte sur mon violon, et à mon grand étonnement, voici le résultat&amp;hellip;&#xA;Merci Ing. Joaquim Domingos Capela&#xA;Brève histoire du Guarnerius La ville de Crémone, en Italie, était aux XVIe, XVIIe et XVIIIe siècles le berceau de familles notables d&amp;rsquo;altistes, entre autres Amati, Guarnerius, Stradivarius et Ruggeris, qui ont projeté cette ville dans toute l&amp;rsquo;Europe comme le premier et le plus grand centre de construction de violons.</description>
+    </item>
+  </channel>
+</rss>

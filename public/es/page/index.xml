@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Gaspar Santos</title>
+    <link>http://localhost:1313/es/page/</link>
+    <description>Recent content in Pages on Gaspar Santos</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discografía</title>
+      <link>http://localhost:1313/es/discografia/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/es/discografia/</guid>
+      <description>Spotify Tidal Amazon Music Deezer Para escuchar aquí&amp;hellip; un poco&amp;hellip;&#xA;Gracias</description>
+    </item>
+    <item>
+      <title>Ing. Joaquim Domingos Capela</title>
+      <link>http://localhost:1313/es/mi-viol%C3%ADn/</link>
+      <pubDate>Fri, 01 Dec 2017 04:52:03 +0100</pubDate>
+      <guid>http://localhost:1313/es/mi-viol%C3%ADn/</guid>
+      <description>Cierto día le pedí al Ing. Joaquim Domingos Capela para escribir un pequeño texto sobre mi violín, y para mi asombro, aquí está el resultado&amp;hellip;&#xA;Gracias Ing. Joaquín Domingos Capela&#xA;Breve historia del Guarnerius La ciudad de Cremona, Italia, fue en los siglos XVI, XVII y XVIII cuna de notables familias de violistas, entre otros Amati, Guarnerius, Stradivarius y Ruggeris, que proyectaron esta ciudad en toda Europa como el primer y mayor centro de construcción de violines.</description>
+    </item>
+    <item>
+      <title>Sonatas y Partitas para violín solo de J. S. Bach (BWV 1001 - 1002)</title>
+      <link>http://localhost:1313/es/entradas/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/es/entradas/</guid>
+      <description>Sonatas y Partitas para violín solo de J. S. Bach (BWV 1001 - 1002), Gaspar Santos, violín, en la Iglesia de São Nicolau, Oporto</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/es/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/contacto/</guid>
+      <description> Nombre: Email: Mensaje: Enviar </description>
+    </item>
+  </channel>
+</rss>

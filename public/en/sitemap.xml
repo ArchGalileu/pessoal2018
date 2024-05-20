@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+  <url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2017-01-01T08:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/discography/</loc>
+    <lastmod>2020-03-20T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/discografia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/discography/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/discographie/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/diskographie/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/discografia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/discografia/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/my-violin/</loc>
+    <lastmod>2017-12-01T04:52:03Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/o-meu-violino/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/my-violin/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/mon-violon/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/meine-geige/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/mi-viol%C3%ADn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/o-meu-violino/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/tickets/</loc>
+    <lastmod>2022-12-01T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/bilhetes/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/tickets/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/billets/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/billette/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/entradas/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/bilhetes/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/contato/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/contact/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/contact/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/kontakt/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/contacto/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/contato/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/page/</loc>
+    <lastmod>2022-12-01T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/page/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/page/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/page/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/page/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/page/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/page/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/authors/</loc>
+    <lastmod>2020-03-20T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/authors/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/authors/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/authors/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/authors/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/authors/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/authors/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/authors/gasparsantos/</loc>
+    <lastmod>2020-03-20T00:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/authors/gasparsantos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/authors/gasparsantos/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/categories/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/categories/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/categories/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/categories/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/categories/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/categories/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/series/</loc>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/series/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/series/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/series/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/series/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/series/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/series/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/tags/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/tags/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tags/" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/tags/" />
+    <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/tags/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/tags/" />
+  </url>
+</urlset>

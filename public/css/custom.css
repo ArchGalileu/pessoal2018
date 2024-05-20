@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+/* Custom CSS */
+/* .hidden p {
+    display: none;
+}
+*/
+@font-face {
+    font-family: 'Cormorant Garamond';
+    font-weight: 300;
+}
+
+.icon {
+    width: 1em;
+    height: 1em;
+    /* Font-Awesome recommends -.125em vertical alignment (https://fontawesome.com/how-to-use/on-the-web/advanced/svg-symbols)
+       However, I mostly find myself using the following which looks better for some icons: */
+    vertical-align: -.140em;
+    fill: initial;
+}
+
+body, button, input, select, textarea {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4em;
+    font-weight: 300;
+}
+
+.title, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4em;
+    font-weight: 300;
+}
+
+.entry-cover figcaption {
+  text-align: right;
+  margin: .25em auto 0;
+  padding: 0;
+}
+.list .item .meta span {
+  font-size: 0.775em;
+}
+.header-info .desc {
+  margin: .5em 0 0;
+  font-size: 0.9em;
+}
+.pretix-widget .pretix-widget-event-calendar .pretix-widget-event-calendar-table {
+  width: 100%;
+  font-size: 0.8em;
+}
+.pretix-widget .pretix-widget-event-calendar {
+  padding-top: 10px;
+  word-break: break-word;
+  font-size: 0.9em;
+}
