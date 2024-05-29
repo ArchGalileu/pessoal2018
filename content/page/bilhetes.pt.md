@@ -30,7 +30,7 @@ Aceitamos, além de cartões e transferências, também em online pagamento em !
 {{< rawhtml >}}
 <!-- <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach2022/widget/v1.css"> -->
 <link rel="preload" type="text/css" href="https://pretix.eu/gfs/bach2022/widget/v1.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<script defer type="text/javascript" src="https://pretix.eu/widget/v1.pt-pt.js"></script>
+<script async type="text/javascript" src="https://pretix.eu/widget/v1.pt-pt.js"></script>
 
 <pretix-widget event="https://pretix.eu/gfs/bach2022/"></pretix-widget>
 <noscript>
