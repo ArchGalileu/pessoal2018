@@ -1,10 +1,10 @@
 ---
-title: "Proposta para Igreja de São Nicolau"
-linktitle: São Nicolau
-description: Fevereiro 2025, Lisboa, Portugal
-date: 2025-02-166T00:00:00+01:00
+title: "Proposta para Igreja de Santa Clara"
+linktitle: Santa Clara
+description: Abril 2022, Porto, Portugal
+date: 2022-04-026T08:00:00+01:00
 authors: [gasparsantos]
-slug: /proposta/nicolau
+slug: /proposta/santa-clara
 noindex: true
 sitemap_exclude: true
 #menu: 
@@ -28,7 +28,7 @@ emoji: true
 #  style: normal
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
-> ao cuidado do Padre ******
+> ao cuidado do Padre António Pais
 
 **Gaspar Santos**, *violino*  
 *Sonatas e Partitas para Violino Solo, BWV 1001 a 1006, de Johann Sebastian Bach*
@@ -37,9 +37,9 @@ emoji: true
 <iframe src="https://embed.tidal.com/tracks/222183928?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:100%;height:96px"></iframe>
 {{< /rawhtml >}}  
   
-A obra para violino solo de Johann Sebastian Bach foi concluída em 1720, o que assume uma harmonia com o edifício Igreja de São Nicolau, assim como a sonoridade da mesma se embeleza em simbiose.
+A obra para violino solo de Johann Sebastian Bach foi concluída em 1720, o que assume uma harmonia com o edifício Igreja de Santa Clara, assim como a sonoridade da mesma se embeleza em simbiose.
 
-Podemos ter Bach em violino solo em Lisboa, com a vossa colaboração, para a qual eu proponho o seguinte:
+Podemos ter Bach em violino solo no Porto, com a vossa colaboração, para a qual eu proponho o seguinte:
 
 ---
 
@@ -51,8 +51,8 @@ Bilhetes
 : os bilhetes só conseguem validar uma única vez
 
 Periodicidade
-: todas as sextas-feiras pelas 18h (a nossa sugestão para que não seja alterada a dinâmica instaurada ao público, se entenderem que pode acontecer mais cedo, porque não :wink:
-: duração de 465 minutos de programa sem intervalo (à consideração naturalmente)
+: todas as quinta-feiras pelas 18h (a nossa sugestão para que não seja alterada a dinâmica instaurada ao público, se entenderem que pode acontecer mais cedo, porque não :wink:
+: duração de 47 minutos de programa sem intervalo (à consideração naturalmente)
 
 Folha de sala
 : programa de sala repetido e apenas uma folha fornecida por nós evidentemente
