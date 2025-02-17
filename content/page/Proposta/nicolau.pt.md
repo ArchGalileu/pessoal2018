@@ -52,7 +52,7 @@ Bilhetes
 
 Periodicidade
 : todas as sextas-feiras pelas 18h (a nossa sugestão para que não seja alterada a dinâmica instaurada ao público, se entenderem que pode acontecer mais cedo, porque não :wink:
-: duração de 465 minutos de programa sem intervalo (à consideração naturalmente)
+: duração de 45 minutos de programa sem intervalo (à consideração naturalmente)
 
 Folha de sala
 : programa de sala repetido e apenas uma folha fornecida por nós evidentemente
