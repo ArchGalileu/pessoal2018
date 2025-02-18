@@ -2,7 +2,7 @@
 title: "Proposta para Igreja da Venerável Ordem Terceira de São Francisco"
 linktitle: Igreja da Venerável Ordem Terceira de São Francisco
 description: Maio 2022, Porto, Portugal
-date: 2023-03-086T08:00:00+01:00
+date: 2023-03-08T08:00:00+01:00
 authors: [gasparsantos]
 slug: /proposta/saofrancisco
 noindex: true

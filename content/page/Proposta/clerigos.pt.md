@@ -2,7 +2,7 @@
 title: "Proposta para Igreja dos Clérigos"
 linktitle: Igreja dos Clérigos
 description: Maio 2022, Porto, Portugal
-date: 2022-04-026T08:00:00+01:00
+date: 2022-04-02T08:00:00+01:00
 authors: [gasparsantos]
 slug: /proposta/clerigos
 noindex: true

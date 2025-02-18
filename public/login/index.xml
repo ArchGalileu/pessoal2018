@@ -12,7 +12,7 @@
       <link>http://localhost:1313/login/login/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/login/login/</guid>
-      <description> Password Get access </description>
+      <description>&lt;form action=&#34;http://localhost:1313/.netlify/functions/login&#34; method=&#34;POST&#34;&gt;&#xA;  &lt;label for=&#34;password&#34;&gt;Password&lt;/label&gt;&#xA;  &lt;input type=&#34;password&#34; name=&#34;password&#34; id=&#34;password&#34; /&gt;&#xA;  &lt;button type=&#34;submit&#34;&gt;Get access&lt;/button&gt;&#xA;&lt;/form&gt;</description>
     </item>
   </channel>
 </rss>

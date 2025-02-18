@@ -35,6 +35,14 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/o-meu-violino/" />
   </url>  
   <url>
+    <loc>http://localhost:1313/concertos/</loc>
+    <lastmod>2018-07-03T04:00:01Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/concertos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/concertos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/concertos/" />
+  </url>  
+  <url>
     <loc>http://localhost:1313/bilhetes/</loc>
     <lastmod>2022-12-01T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -57,7 +65,7 @@
   </url>  
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2023-07-20T00:00:00Z</lastmod>
+    <lastmod>2025-02-16T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/authors/" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/authors/" />
@@ -68,7 +76,7 @@
   </url>  
   <url>
     <loc>http://localhost:1313/authors/gasparsantos/</loc>
-    <lastmod>2023-07-20T00:00:00Z</lastmod>
+    <lastmod>2025-02-16T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/authors/gasparsantos/" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/authors/gasparsantos/" />
@@ -79,7 +87,7 @@
   </url>  
   <url>
     <loc>http://localhost:1313/page/</loc>
-    <lastmod>2023-07-20T00:00:00Z</lastmod>
+    <lastmod>2025-02-16T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/page/" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/page/" />
@@ -87,6 +95,14 @@
     <xhtml:link rel="alternate" hreflang="de" href="http://localhost:1313/de/page/" />
     <xhtml:link rel="alternate" hreflang="es" href="http://localhost:1313/es/page/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/page/" />
+  </url>  
+  <url>
+    <loc>http://localhost:1313/concertos/teste/</loc>
+    <lastmod>2018-07-03T04:00:01Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:1313/concertos/teste/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/concertos/teste/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/concertos/teste/" />
   </url>  
   <url>
     <loc>http://localhost:1313/login/</loc>

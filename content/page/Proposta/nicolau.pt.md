@@ -2,7 +2,7 @@
 title: "Proposta para Igreja de São Nicolau"
 linktitle: São Nicolau
 description: Fevereiro 2025, Lisboa, Portugal
-date: 2025-02-166T00:00:00+01:00
+date: 2025-02-16T00:00:00+01:00
 authors: [gasparsantos]
 slug: /proposta/nicolau
 noindex: true
@@ -28,7 +28,7 @@ emoji: true
 #  style: normal
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
-> ao cuidado do Padre ******
+> ao cuidado do Padre Mário Rui
 
 **Gaspar Santos**, *violino*  
 *Sonatas e Partitas para Violino Solo, BWV 1001 a 1006, de Johann Sebastian Bach*
