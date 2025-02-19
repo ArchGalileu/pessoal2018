@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
 
 /* Custom CSS */
 /* .hidden p {
@@ -7,7 +7,7 @@
 */
 @font-face {
     font-family: 'Cormorant Garamond';
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .icon {
@@ -22,13 +22,13 @@
 body, button, input, select, textarea {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.4em;
-    font-weight: 300;
 }
 
 .title, h1, h2, h3, h4, h5, h6 {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.4em;
-    font-weight: 300;
+    font-weight: 500;
+	font-style: Bold 700;
 }
 
 .entry-cover figcaption {

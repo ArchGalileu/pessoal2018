@@ -10,7 +10,11 @@ languageCode = 'pt-pt'
 DefaultContentLanguage = "pt"
 DefaultContentLanguageInSubdir = false
 
+cleanDestinationDir = true
+
 theme = 'minimo'
+
+assetDir = 'assets/'
 
 [sitemap]
   changefreq = 'monthly'
@@ -236,3 +240,7 @@ anchor = "smart"
 [module]
 [[module.imports]]
   path = 'github.com/hugo-mods/icons'
+
+#[[module.mounts]]
+#  source = 'assets'
+#  target = 'assets'

@@ -28,10 +28,10 @@ emoji: true
 #  style: normal
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
 ---
-> ao cuidado do Padre Mário Rui
+> ao cuidado do **Padre Mário Rui**
 
-**Gaspar Santos**, *violino*  
-*Sonatas e Partitas para Violino Solo, BWV 1001 a 1006, de Johann Sebastian Bach*
+# **Gaspar Santos**, *violino*  
+#### *Sonatas e Partitas para Violino Solo, BWV 1001 a 1006, de Johann Sebastian Bach*
 
 {{< rawhtml >}}
 <iframe src="https://embed.tidal.com/tracks/222183928?disableAnalytics=true" allowfullscreen="allowfullscreen" frameborder="0" style="width:100%;height:96px"></iframe>

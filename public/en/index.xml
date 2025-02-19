@@ -36,12 +36,5 @@
       <guid>http://localhost:1313/en/contact/</guid>
       <description>&lt;form name=&#34;contact&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34;&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label&gt;Name: &lt;input type=&#34;text&#34; name=&#34;name&#34; /&gt;&lt;/label&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label&gt;Email: &lt;input type=&#34;email&#34; name=&#34;email&#34; /&gt;&lt;/label&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label&gt;Message: &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&lt;/label&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&#xA;  &lt;/p&gt;&#xA;&lt;/form&gt;</description>
     </item>
-    <item>
-      <title>Teste</title>
-      <link>http://localhost:1313/en/concertos/teste/</link>
-      <pubDate>Tue, 03 Jul 2018 04:00:01 +0100</pubDate>
-      <guid>http://localhost:1313/en/concertos/teste/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
