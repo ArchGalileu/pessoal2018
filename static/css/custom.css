@@ -24,10 +24,40 @@ body, button, input, select, textarea {
     font-size: 1.4em;
 }
 
-.title, h1, h2, h3, h4, h5, h6 {
+.title, h1 {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.4em;
     font-weight: 600;
+}
+
+h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.35em;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+h4 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+
+h5 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+h6 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.15em;
+    font-weight: 500;
 }
 
 .entry-cover figcaption {
