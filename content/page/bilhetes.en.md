@@ -16,13 +16,12 @@ weight: 6
 draft: false
 showReadingTime: false
 image: /images/gaspar-wide.png
+# We accept, in addition to cards and transfers, online payments in ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 ---
 ![
 Gaspar Santos](/images/gaspar-wide.png)
 
 You can purchase tickets online on the calendar below at any time or in person, available 2 hours before, next to the entrance of [Igreja de São Nicolau, Porto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))
-
-We accept, in addition to cards and transfers, online payments in ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
 <!-- <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach-2/widget/v1.css"> -->

@@ -20,13 +20,12 @@ image: /images/gaspar-wide.png
 #  caption: Sonatas and Partitas for Solo Violin, BWV 1001-1006 (vol I)
 #  style: normal
 # {{< imgcap title="Eng. Domingos Capela" src="/images/engcapela.webp" >}}
+# Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 ---
 
 ![Gaspar Santos](/images/gaspar-wide.png)
 
 Puede comprar boletos en línea en el calendario a continuación en cualquier momento o en persona, disponibles 2 horas antes, junto a la entrada de [Iglesia de São Nicolau, Oporto](https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Nicolau_(Porto))
-
-Aceptamos, además de tarjetas y transferencias, pagos en línea en ![Bitcoin by Lightning Network](/images/bitcoinsmall.png)
 
 {{< rawhtml >}}
 <!-- <link rel="stylesheet" type="text/css" href="https://pretix.eu/gfs/bach2022/widget/v1.css"> -->
